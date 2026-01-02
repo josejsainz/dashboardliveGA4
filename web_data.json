@@ -194,5 +194,18 @@
       "Chrome OS": 41,
       "Tizen": 1
     }
+  },
+  {
+    "Timestamp": "2026-01-02 14:36:19",
+    "Realtime_App": 2,
+    "Realtime_Web": 3,
+    "First_Open_Acumulado_Total": 0,
+    "Device_Category_Mobile": 0,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 0,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {},
+    "Browser_OS": {}
   }
 ]
