@@ -1,21 +1,27 @@
 [
   {
-    "Timestamp": "2026-01-02 13:20:00",
-    "Realtime_App": 0,
-    "Realtime_Web": 0,
+    "Timestamp": "2026-01-02 13:23:00",
+    "Realtime_App": 5,
+    "Realtime_Web": 2,
     "First_Open_Diff_Android_30min": 0,
     "First_Open_Diff_iOS_30min": 0,
     "First_Open_Diff_Total_30min": 0,
     "First_View_Web": 0,
-    "First_Open_Acumulado_Total": 0,
-    "First_Open_Acumulado_Android": 0,
-    "First_Open_Acumulado_iOS": 0,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
+    "First_Open_Acumulado_Total": 3739838,
+    "First_Open_Acumulado_Android": 1088685,
+    "First_Open_Acumulado_iOS": 2651153,
+    "Device_Category_Mobile": 14357,
+    "Device_Category_Tablet": 810,
     "Device_Category_Desktop": 0,
     "Device_Category_TV": 0,
     "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {}
+    "Browsers": {
+      "(not set)": 15181,
+      "": 193
+    },
+    "Browser_OS": {
+      "iOS": 7980,
+      "Android": 7305
+    }
   }
 ]
