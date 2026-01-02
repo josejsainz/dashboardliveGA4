@@ -54,5 +54,33 @@
       "Linux": 1220,
       "Others": 42
     }
+  },
+  {
+    "Timestamp": "2026-01-02 14:45:57",
+    "Realtime_App": 4,
+    "Realtime_Web": 3,
+    "First_Open_Diff_Total": 0,
+    "Device_Category_Mobile": 41119,
+    "Device_Category_Tablet": 1076,
+    "Device_Category_Desktop": 11649,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 33222,
+      "Safari": 11612,
+      "Safari (in-app)": 3024,
+      "Samsung Internet": 1716,
+      "Firefox": 1558,
+      "Edge": 1446,
+      "Others": 764
+    },
+    "Operating_Systems": {
+      "Android": 26158,
+      "iOS": 15848,
+      "Windows": 7768,
+      "Macintosh": 2575,
+      "Linux": 1220,
+      "Others": 42
+    }
   }
 ]
