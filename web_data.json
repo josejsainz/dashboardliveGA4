@@ -1,10 +1,10 @@
 [
   {
-    "Timestamp": "2026-01-02 16:06:10",
-    "Realtime_App": 4,
-    "Realtime_Web": 4,
+    "Timestamp": "2026-01-02 16:12:05",
+    "Realtime_App": 3,
+    "Realtime_Web": 5,
     "First_Open_Realtime": 0,
-    "First_View_Realtime": 3,
+    "First_View_Realtime": 4,
     "First_Open_Acumulado_Total": 15259,
     "First_Open_Acumulado_Android": 7338,
     "First_Open_Acumulado_iOS": 7921,
