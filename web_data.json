@@ -1,10 +1,10 @@
 [
   {
-    "Timestamp": "2026-01-02 15:53:55",
+    "Timestamp": "2026-01-02 16:06:10",
     "Realtime_App": 4,
-    "Realtime_Web": 2,
+    "Realtime_Web": 4,
     "First_Open_Realtime": 0,
-    "First_View_Realtime": 1,
+    "First_View_Realtime": 3,
     "First_Open_Acumulado_Total": 15259,
     "First_Open_Acumulado_Android": 7338,
     "First_Open_Acumulado_iOS": 7921,
@@ -15,7 +15,7 @@
     "Device_Category_Other": 0,
     "Browsers": {
       "Chrome": 33223,
-      "Safari": 11612,
+      "Safari": 11614,
       "Safari (in-app)": 3024,
       "Samsung Internet": 1716,
       "Firefox": 1558,
