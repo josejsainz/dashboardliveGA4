@@ -1,0 +1,25 @@
+[
+  {
+    "Timestamp": "2026-01-02 13:38:46",
+    "Realtime_App": 66,
+    "Realtime_Web": 39,
+    "First_Open_Acumulado_Total": 15184,
+    "First_Open_Acumulado_Android": 15184,
+    "First_Open_Acumulado_iOS": 0,
+    "Device_Category_Mobile": 41136,
+    "Device_Category_Tablet": 1077,
+    "Device_Category_Desktop": 11683,
+    "Device_Category_TV": 6,
+    "Device_Category_Other": 0,
+    "Browsers": {},
+    "Browser_OS": {
+      "Android": 26164,
+      "iOS": 15856,
+      "Windows": 7784,
+      "Macintosh": 2588,
+      "Linux": 1224,
+      "Chrome OS": 41,
+      "Tizen": 1
+    }
+  }
+]
