@@ -1,7 +1,7 @@
 [
   {
-    "Timestamp": "2026-01-02 15:52:05",
-    "Realtime_App": 5,
+    "Timestamp": "2026-01-02 15:53:55",
+    "Realtime_App": 4,
     "Realtime_Web": 2,
     "First_Open_Realtime": 0,
     "First_View_Realtime": 1,
@@ -24,7 +24,7 @@
     },
     "Browser_OS": {
       "Android": 26159,
-      "iOS": 15848,
+      "iOS": 15850,
       "Windows": 7768,
       "Macintosh": 2575,
       "Linux": 1220,
