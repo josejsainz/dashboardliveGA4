@@ -254,5 +254,37 @@
       "Linux": 1221,
       "Others": 42
     }
+  },
+  {
+    "Timestamp": "2026-01-03 17:00:06",
+    "Realtime_App": 0,
+    "Realtime_Web": 0,
+    "First_Open_Realtime": 0,
+    "First_View_Realtime": 0,
+    "First_Open_Acumulado_Total": 15268,
+    "First_Open_Acumulado_Android": 7346,
+    "First_Open_Acumulado_iOS": 7922,
+    "Device_Category_Mobile": 41149,
+    "Device_Category_Tablet": 1076,
+    "Device_Category_Desktop": 11680,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 33254,
+      "Safari": 11637,
+      "Safari (in-app)": 3024,
+      "Samsung Internet": 1719,
+      "Firefox": 1561,
+      "Edge": 1448,
+      "Others": 765
+    },
+    "Browser_OS": {
+      "Android": 26178,
+      "iOS": 15861,
+      "Windows": 7784,
+      "Macintosh": 2582,
+      "Linux": 1221,
+      "Others": 42
+    }
   }
 ]
