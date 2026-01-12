@@ -1,7 +1,7 @@
 [
   {
-    "Timestamp": "2026-01-12 11:39:06",
-    "Realtime_App": 6,
+    "Timestamp": "2026-01-12 11:58:08",
+    "Realtime_App": 4,
     "Realtime_Web": 3,
     "First_Open_Diff_Total_30min": 0,
     "First_Open_Acumulado_Android": 7650,
@@ -14,7 +14,7 @@
     "Device_Category_Other": 0,
     "Browsers": {
       "Chrome": 33372,
-      "Safari": 11822,
+      "Safari": 11824,
       "Safari (in-app)": 3024,
       "Samsung Internet": 1724,
       "Firefox": 1580,
@@ -212,16 +212,16 @@
         "count": 83
       },
       {
-        "city": "Santiago de Compostela",
-        "province": "Galicia",
+        "city": "Alcobendas",
+        "province": "Comunidad de Madrid",
         "country": "Spain",
         "count": 80
       },
       {
-        "city": "Alcobendas",
-        "province": "Comunidad de Madrid",
+        "city": "Santiago de Compostela",
+        "province": "Galicia",
         "country": "Spain",
-        "count": 79
+        "count": 80
       },
       {
         "city": "Oviedo",
