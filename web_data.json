@@ -1,6 +1,6 @@
 [
   {
-    "Timestamp": "2026-01-12 08:54:00",
+    "Timestamp": "2026-01-12 09:00:08",
     "Realtime_App": 2,
     "Realtime_Web": 3,
     "First_Open_Realtime": 2,
@@ -54,16 +54,6 @@
         "count": "1.036"
       },
       {
-        "city": "(not set)",
-        "region": "Extremadura",
-        "count": "1.016"
-      },
-      {
-        "city": "(not set)",
-        "region": "Andalucía",
-        "count": "944"
-      },
-      {
         "city": "Málaga",
         "region": "Andalucía",
         "count": "848"
@@ -109,11 +99,6 @@
         "count": "452"
       },
       {
-        "city": "(not set)",
-        "region": "Castilla-La Mancha",
-        "count": "447"
-      },
-      {
         "city": "Mérida",
         "region": "Extremadura",
         "count": "372"
@@ -139,19 +124,9 @@
         "count": "212"
       },
       {
-        "city": "(not set)",
-        "region": "Comunidad Valenciana",
-        "count": "192"
-      },
-      {
         "city": "Córdoba",
         "region": "Andalucía",
         "count": "179"
-      },
-      {
-        "city": "(not set)",
-        "region": "Galicia",
-        "count": "171"
       },
       {
         "city": "Don Benito",
@@ -169,39 +144,14 @@
         "count": "153"
       },
       {
-        "city": "(not set)",
-        "region": "Castilla y León",
-        "count": "139"
-      },
-      {
         "city": "Almendralejo",
         "region": "Extremadura",
         "count": "133"
       },
       {
-        "city": "(not set)",
-        "region": "Cataluña",
-        "count": "129"
-      },
-      {
-        "city": "(not set)",
-        "region": "Comunidad de Madrid",
-        "count": "128"
-      },
-      {
-        "city": "(not set)",
-        "region": "País Vasco",
-        "count": "106"
-      },
-      {
         "city": "Alicante",
         "region": "Comunidad Valenciana",
         "count": "106"
-      },
-      {
-        "city": "(not set)",
-        "region": "Región de Murcia",
-        "count": "104"
       },
       {
         "city": "Salamanca",
@@ -232,11 +182,6 @@
         "city": "Santa Cruz de Tenerife",
         "region": "Islas Canarias",
         "count": "83"
-      },
-      {
-        "city": "(not set)",
-        "region": "Islas Canarias",
-        "count": "80"
       },
       {
         "city": "Santiago de Compostela",
@@ -329,11 +274,6 @@
         "count": "51"
       },
       {
-        "city": "(not set)",
-        "region": "Aragón",
-        "count": "50"
-      },
-      {
         "city": "Alcorcón",
         "region": "Comunidad de Madrid",
         "count": "49"
@@ -352,11 +292,6 @@
         "city": "Pozuelo de Alarcón",
         "region": "Comunidad de Madrid",
         "count": "48"
-      },
-      {
-        "city": "(not set)",
-        "region": "Islas Baleares",
-        "count": "47"
       },
       {
         "city": "Vitoria-Gasteiz",
@@ -397,11 +332,6 @@
         "city": "Marbella",
         "region": "Andalucía",
         "count": "42"
-      },
-      {
-        "city": "(not set)",
-        "region": "Cantabria",
-        "count": "40"
       },
       {
         "city": "Talavera de la Reina",
@@ -446,11 +376,6 @@
       {
         "city": "Cádiz",
         "region": "Andalucía",
-        "count": "35"
-      },
-      {
-        "city": "(not set)",
-        "region": "Asturias",
         "count": "35"
       },
       {
@@ -634,11 +559,6 @@
         "count": "22"
       },
       {
-        "city": "(not set)",
-        "region": "La Rioja",
-        "count": "22"
-      },
-      {
         "city": "Coslada",
         "region": "Comunidad de Madrid",
         "count": "22"
@@ -686,11 +606,6 @@
       {
         "city": "Huercal-Overa",
         "region": "Andalucía",
-        "count": "18"
-      },
-      {
-        "city": "(not set)",
-        "region": "Navarra",
         "count": "18"
       },
       {
@@ -766,11 +681,6 @@
       {
         "city": "Benidorm",
         "region": "Comunidad Valenciana",
-        "count": "15"
-      },
-      {
-        "city": "(not set)",
-        "country": "France",
         "count": "15"
       },
       {
@@ -914,11 +824,6 @@
         "count": "12"
       },
       {
-        "city": "(not set)",
-        "country": "United States",
-        "count": "12"
-      },
-      {
         "city": "París",
         "country": "France",
         "count": "11"
@@ -986,11 +891,6 @@
       {
         "city": "Orihuela",
         "region": "Comunidad Valenciana",
-        "count": "11"
-      },
-      {
-        "city": "(not set)",
-        "country": "Portugal",
         "count": "11"
       },
       {
@@ -1174,11 +1074,6 @@
         "count": "7"
       },
       {
-        "city": "(not set)",
-        "country": "Peru",
-        "count": "7"
-      },
-      {
         "city": "Lebrija",
         "region": "Andalucía",
         "count": "7"
@@ -1266,11 +1161,6 @@
       {
         "city": "Londres",
         "country": "United Kingdom",
-        "count": "7"
-      },
-      {
-        "city": "(not set)",
-        "country": "Andorra",
         "count": "7"
       },
       {
@@ -1419,21 +1309,6 @@
         "count": "5"
       },
       {
-        "city": "(not set)",
-        "country": "Ecuador",
-        "count": "5"
-      },
-      {
-        "city": "(not set)",
-        "country": "United Kingdom",
-        "count": "5"
-      },
-      {
-        "city": "(not set)",
-        "country": "Italy",
-        "count": "5"
-      },
-      {
         "city": "Bogotá",
         "country": "Colombia",
         "count": "4"
@@ -1524,11 +1399,6 @@
         "count": "4"
       },
       {
-        "city": "(not set)",
-        "country": "Germany",
-        "count": "4"
-      },
-      {
         "city": "Buenos Aires",
         "country": "Argentina",
         "count": "3"
@@ -1571,11 +1441,6 @@
       {
         "city": "Milán",
         "country": "Italy",
-        "count": "3"
-      },
-      {
-        "city": "(not set)",
-        "country": "Japan",
         "count": "3"
       },
       {
@@ -1699,18 +1564,8 @@
         "count": "3"
       },
       {
-        "city": "(not set)",
-        "country": "Switzerland",
-        "count": "3"
-      },
-      {
         "city": "San Jose",
         "country": "Costa Rica",
-        "count": "2"
-      },
-      {
-        "city": "Havana",
-        "country": "Cuba",
         "count": "2"
       },
       {
@@ -1729,11 +1584,6 @@
         "count": "2"
       },
       {
-        "city": "Tegucigalpa",
-        "country": "Honduras",
-        "count": "2"
-      },
-      {
         "city": "Bologna",
         "country": "Italy",
         "count": "2"
@@ -1741,11 +1591,6 @@
       {
         "city": "Cagliari",
         "country": "Italy",
-        "count": "2"
-      },
-      {
-        "city": "Luxembourg",
-        "country": "Luxembourg",
         "count": "2"
       },
       {
@@ -1764,11 +1609,6 @@
         "count": "2"
       },
       {
-        "city": "Panama City",
-        "country": "Panama",
-        "count": "2"
-      },
-      {
         "city": "Asuncion",
         "country": "Paraguay",
         "count": "2"
@@ -1776,11 +1616,6 @@
       {
         "city": "Oeiras",
         "country": "Portugal",
-        "count": "2"
-      },
-      {
-        "city": "Singapore",
-        "country": "Singapore",
         "count": "2"
       },
       {
@@ -1874,26 +1709,6 @@
         "count": "2"
       },
       {
-        "city": "(not set)",
-        "country": "(not set)",
-        "count": "2"
-      },
-      {
-        "city": "(not set)",
-        "country": "Netherlands",
-        "count": "2"
-      },
-      {
-        "city": "(not set)",
-        "country": "Uruguay",
-        "count": "2"
-      },
-      {
-        "city": "(not set)",
-        "country": "Argentina",
-        "count": "1"
-      },
-      {
         "city": "Bahia Blanca",
         "country": "Argentina",
         "count": "1"
@@ -1984,16 +1799,6 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "Belgium",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "Bolivia",
-        "count": "1"
-      },
-      {
         "city": "Santa Cruz De La Sierra",
         "country": "Bolivia",
         "count": "1"
@@ -2044,16 +1849,6 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "China",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "Colombia",
-        "count": "1"
-      },
-      {
         "city": "Medellín",
         "country": "Colombia",
         "count": "1"
@@ -2074,17 +1869,7 @@
         "count": "1"
       },
       {
-        "city": "Heredia",
-        "country": "Costa Rica",
-        "count": "1"
-      },
-      {
         "city": "Zagreb",
-        "country": "Croatia",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
         "country": "Croatia",
         "count": "1"
       },
@@ -2259,33 +2044,8 @@
         "count": "1"
       },
       {
-        "city": "San Pedro Sula",
-        "country": "Honduras",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "Hungary",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "India",
-        "count": "1"
-      },
-      {
         "city": "70882",
         "country": "Indonesia",
-        "count": "1"
-      },
-      {
-        "city": "Tehran",
-        "country": "Iran",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "Ireland",
         "count": "1"
       },
       {
@@ -2374,11 +2134,6 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "Mexico",
-        "count": "1"
-      },
-      {
         "city": "Morelia",
         "country": "Mexico",
         "count": "1"
@@ -2439,16 +2194,6 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "Nicaragua",
-        "count": "1"
-      },
-      {
-        "city": "Skopje",
-        "country": "North Macedonia",
-        "count": "1"
-      },
-      {
         "city": "Bitola",
         "country": "North Macedonia",
         "count": "1"
@@ -2459,22 +2204,12 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "Paraguay",
-        "count": "1"
-      },
-      {
         "city": "Imus",
         "country": "Philippines",
         "count": "1"
       },
       {
         "city": "Opole",
-        "country": "Poland",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
         "country": "Poland",
         "count": "1"
       },
@@ -2530,11 +2265,6 @@
       },
       {
         "city": "Carolina",
-        "country": "Puerto Rico",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
         "country": "Puerto Rico",
         "count": "1"
       },
@@ -2700,11 +2430,6 @@
       },
       {
         "city": "Jonkoping",
-        "country": "Sweden",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
         "country": "Sweden",
         "count": "1"
       },
@@ -2917,11 +2642,6 @@
         "city": "Maracay",
         "country": "Venezuela",
         "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "Venezuela",
-        "count": "1"
       }
     ],
     "Geo_Web": [
@@ -2941,11 +2661,6 @@
         "count": "4.472"
       },
       {
-        "city": "(not set)",
-        "region": "(not set)",
-        "count": "3.995"
-      },
-      {
         "city": "Zaragoza",
         "region": "Aragón",
         "count": "2.734"
@@ -2954,11 +2669,6 @@
         "city": "Sevilla",
         "region": "Andalucía",
         "count": "2.569"
-      },
-      {
-        "city": "(not set)",
-        "region": "Andalucía",
-        "count": "1.946"
       },
       {
         "city": "Málaga",
@@ -2974,11 +2684,6 @@
         "city": "Las Palmas de Gran Canaria",
         "region": "Islas Canarias",
         "count": "1.551"
-      },
-      {
-        "city": "(not set)",
-        "region": "Extremadura",
-        "count": "1.373"
       },
       {
         "city": "Vigo",
@@ -3011,16 +2716,6 @@
         "count": "671"
       },
       {
-        "city": "(not set)",
-        "region": "Castilla-La Mancha",
-        "count": "657"
-      },
-      {
-        "city": "(not set)",
-        "region": "Comunidad Valenciana",
-        "count": "653"
-      },
-      {
         "city": "Toledo",
         "region": "Castilla-La Mancha",
         "count": "644"
@@ -3051,19 +2746,9 @@
         "count": "446"
       },
       {
-        "city": "(not set)",
-        "region": "Galicia",
-        "count": "400"
-      },
-      {
         "city": "Castelldefels",
         "region": "Cataluña",
         "count": "368"
-      },
-      {
-        "city": "(not set)",
-        "region": "País Vasco",
-        "count": "358"
       },
       {
         "city": "Córdoba",
@@ -3073,11 +2758,6 @@
       {
         "city": "Gijón",
         "region": "Asturias",
-        "count": "313"
-      },
-      {
-        "city": "(not set)",
-        "region": "Castilla y León",
         "count": "313"
       },
       {
@@ -3091,19 +2771,9 @@
         "count": "284"
       },
       {
-        "city": "(not set)",
-        "region": "Comunidad de Madrid",
-        "count": "264"
-      },
-      {
         "city": "Donostia-San Sebastián",
         "region": "País Vasco",
         "count": "257"
-      },
-      {
-        "city": "(not set)",
-        "region": "Cataluña",
-        "count": "251"
       },
       {
         "city": "Salamanca",
@@ -3126,11 +2796,6 @@
         "count": "233"
       },
       {
-        "city": "(not set)",
-        "region": "Región de Murcia",
-        "count": "225"
-      },
-      {
         "city": "Vitoria-Gasteiz",
         "region": "País Vasco",
         "count": "222"
@@ -3144,11 +2809,6 @@
         "city": "Santiago de Compostela",
         "region": "Galicia",
         "count": "209"
-      },
-      {
-        "city": "(not set)",
-        "region": "Islas Canarias",
-        "count": "208"
       },
       {
         "city": "Getafe",
@@ -3169,11 +2829,6 @@
         "city": "Móstoles",
         "region": "Comunidad de Madrid",
         "count": "181"
-      },
-      {
-        "city": "(not set)",
-        "region": "Aragón",
-        "count": "177"
       },
       {
         "city": "Alcorcón",
@@ -3221,19 +2876,9 @@
         "count": "138"
       },
       {
-        "city": "(not set)",
-        "region": "Islas Baleares",
-        "count": "134"
-      },
-      {
         "city": "Lugo",
         "region": "Galicia",
         "count": "133"
-      },
-      {
-        "city": "(not set)",
-        "region": "Asturias",
-        "count": "131"
       },
       {
         "city": "Logroño",
@@ -3391,18 +3036,8 @@
         "count": "86"
       },
       {
-        "city": "(not set)",
-        "region": "Navarra",
-        "count": "83"
-      },
-      {
         "city": "Algeciras",
         "region": "Andalucía",
-        "count": "81"
-      },
-      {
-        "city": "(not set)",
-        "region": "Cantabria",
         "count": "81"
       },
       {
@@ -3506,11 +3141,6 @@
         "count": "58"
       },
       {
-        "city": "(not set)",
-        "country": "United States",
-        "count": "58"
-      },
-      {
         "city": "Torremolinos",
         "region": "Andalucía",
         "count": "56"
@@ -3564,11 +3194,6 @@
         "city": "Benalmadena",
         "region": "Andalucía",
         "count": "47"
-      },
-      {
-        "city": "(not set)",
-        "region": "La Rioja",
-        "count": "45"
       },
       {
         "city": "Cuenca",
@@ -3696,18 +3321,8 @@
         "count": "37"
       },
       {
-        "city": "(not set)",
-        "country": "Andorra",
-        "count": "37"
-      },
-      {
         "city": "Roquetas de Mar",
         "region": "Andalucía",
-        "count": "36"
-      },
-      {
-        "city": "(not set)",
-        "country": "France",
         "count": "36"
       },
       {
@@ -3743,11 +3358,6 @@
       {
         "city": "Torrelavega",
         "region": "Cantabria",
-        "count": "33"
-      },
-      {
-        "city": "(not set)",
-        "country": "Italy",
         "count": "33"
       },
       {
@@ -3788,11 +3398,6 @@
       {
         "city": "El Ejido",
         "region": "Andalucía",
-        "count": "29"
-      },
-      {
-        "city": "(not set)",
-        "country": "Germany",
         "count": "29"
       },
       {
@@ -3901,11 +3506,6 @@
         "count": "26"
       },
       {
-        "city": "(not set)",
-        "country": "Portugal",
-        "count": "26"
-      },
-      {
         "city": "Ciudad de México",
         "country": "Mexico",
         "count": "25"
@@ -3976,11 +3576,6 @@
         "count": "23"
       },
       {
-        "city": "(not set)",
-        "country": "Netherlands",
-        "count": "23"
-      },
-      {
         "city": "El Viso del Alcor",
         "region": "Andalucía",
         "count": "22"
@@ -4043,11 +3638,6 @@
       {
         "city": "Águilas",
         "region": "Región de Murcia",
-        "count": "21"
-      },
-      {
-        "city": "(not set)",
-        "country": "Peru",
         "count": "21"
       },
       {
@@ -4178,11 +3768,6 @@
       {
         "city": "Vinaros",
         "region": "Comunidad Valenciana",
-        "count": "17"
-      },
-      {
-        "city": "(not set)",
-        "country": "United Kingdom",
         "count": "17"
       },
       {
@@ -4363,11 +3948,6 @@
       {
         "city": "Budapest",
         "country": "Hungary",
-        "count": "12"
-      },
-      {
-        "city": "Luxembourg",
-        "country": "Luxembourg",
         "count": "12"
       },
       {
@@ -4631,11 +4211,6 @@
         "count": "8"
       },
       {
-        "city": "(not set)",
-        "country": "Argentina",
-        "count": "8"
-      },
-      {
         "city": "Córdoba",
         "country": "Argentina",
         "count": "7"
@@ -4648,11 +4223,6 @@
       {
         "city": "San Jose",
         "country": "Costa Rica",
-        "count": "7"
-      },
-      {
-        "city": "Havana",
-        "country": "Cuba",
         "count": "7"
       },
       {
@@ -4709,16 +4279,6 @@
         "city": "Dubai",
         "country": "United Arab Emirates",
         "count": "7"
-      },
-      {
-        "city": "(not set)",
-        "country": "Mexico",
-        "count": "7"
-      },
-      {
-        "city": "Tegucigalpa",
-        "country": "Honduras",
-        "count": "6"
       },
       {
         "city": "Florence",
@@ -4786,21 +4346,6 @@
         "count": "6"
       },
       {
-        "city": "(not set)",
-        "country": "Ecuador",
-        "count": "6"
-      },
-      {
-        "city": "(not set)",
-        "country": "Thailand",
-        "count": "6"
-      },
-      {
-        "city": "(not set)",
-        "country": "Venezuela",
-        "count": "6"
-      },
-      {
         "city": "Liege",
         "country": "Belgium",
         "count": "5"
@@ -4808,11 +4353,6 @@
       {
         "city": "Copenhagen",
         "country": "Denmark",
-        "count": "5"
-      },
-      {
-        "city": "Santo Domingo",
-        "country": "Dominican Republic",
         "count": "5"
       },
       {
@@ -4843,11 +4383,6 @@
       {
         "city": "Managua",
         "country": "Nicaragua",
-        "count": "5"
-      },
-      {
-        "city": "Panama City",
-        "country": "Panama",
         "count": "5"
       },
       {
@@ -5101,31 +4636,6 @@
         "count": "4"
       },
       {
-        "city": "(not set)",
-        "country": "Dominican Republic",
-        "count": "4"
-      },
-      {
-        "city": "(not set)",
-        "country": "India",
-        "count": "4"
-      },
-      {
-        "city": "(not set)",
-        "country": "Japan",
-        "count": "4"
-      },
-      {
-        "city": "(not set)",
-        "country": "Switzerland",
-        "count": "4"
-      },
-      {
-        "city": "(not set)",
-        "country": "Paraguay",
-        "count": "4"
-      },
-      {
         "city": "La Plata",
         "country": "Argentina",
         "count": "3"
@@ -5183,11 +4693,6 @@
       {
         "city": "Cali",
         "country": "Colombia",
-        "count": "3"
-      },
-      {
-        "city": "Santiago De Los Caballeros",
-        "country": "Dominican Republic",
         "count": "3"
       },
       {
@@ -5281,11 +4786,6 @@
         "count": "3"
       },
       {
-        "city": "(not set)",
-        "country": "Poland",
-        "count": "3"
-      },
-      {
         "city": "Poznan",
         "country": "Poland",
         "count": "3"
@@ -5303,11 +4803,6 @@
       {
         "city": "Santo Tirso",
         "country": "Portugal",
-        "count": "3"
-      },
-      {
-        "city": "(not set)",
-        "country": "Romania",
         "count": "3"
       },
       {
@@ -5431,16 +4926,6 @@
         "count": "3"
       },
       {
-        "city": "(not set)",
-        "country": "Brazil",
-        "count": "3"
-      },
-      {
-        "city": "Tirana",
-        "country": "Albania",
-        "count": "2"
-      },
-      {
         "city": "Libertad",
         "country": "Argentina",
         "count": "2"
@@ -5556,11 +5041,6 @@
         "count": "2"
       },
       {
-        "city": "Torshavn",
-        "country": "Faroe Islands",
-        "count": "2"
-      },
-      {
         "city": "Saint-Etienne",
         "country": "France",
         "count": "2"
@@ -5646,21 +5126,6 @@
         "count": "2"
       },
       {
-        "city": "(not set)",
-        "country": "Greece",
-        "count": "2"
-      },
-      {
-        "city": "(not set)",
-        "country": "Honduras",
-        "count": "2"
-      },
-      {
-        "city": "Hong Kong",
-        "country": "Hong Kong",
-        "count": "2"
-      },
-      {
         "city": "Lucan",
         "country": "Ireland",
         "count": "2"
@@ -5723,16 +5188,6 @@
       {
         "city": "Male",
         "country": "Maldives",
-        "count": "2"
-      },
-      {
-        "city": "(not set)",
-        "country": "Malta",
-        "count": "2"
-      },
-      {
-        "city": "Swieqi",
-        "country": "Malta",
         "count": "2"
       },
       {
@@ -5851,22 +5306,12 @@
         "count": "2"
       },
       {
-        "city": "Belgrade",
-        "country": "Serbia",
-        "count": "2"
-      },
-      {
         "city": "Bratislava",
         "country": "Slovakia",
         "count": "2"
       },
       {
         "city": "Ljubljana",
-        "country": "Slovenia",
-        "count": "2"
-      },
-      {
-        "city": "(not set)",
         "country": "Slovenia",
         "count": "2"
       },
@@ -6086,21 +5531,6 @@
         "count": "2"
       },
       {
-        "city": "(not set)",
-        "country": "Czechia",
-        "count": "2"
-      },
-      {
-        "city": "(not set)",
-        "country": "Uruguay",
-        "count": "2"
-      },
-      {
-        "city": "(not set)",
-        "country": "Algeria",
-        "count": "1"
-      },
-      {
         "city": "Bahia Blanca",
         "country": "Argentina",
         "count": "1"
@@ -6251,11 +5681,6 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "Austria",
-        "count": "1"
-      },
-      {
         "city": "Hallstatt",
         "country": "Austria",
         "count": "1"
@@ -6263,11 +5688,6 @@
       {
         "city": "Wels",
         "country": "Austria",
-        "count": "1"
-      },
-      {
-        "city": "Saint Michael",
-        "country": "Barbados",
         "count": "1"
       },
       {
@@ -6312,11 +5732,6 @@
       },
       {
         "city": "Zaventem",
-        "country": "Belgium",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
         "country": "Belgium",
         "count": "1"
       },
@@ -6451,23 +5866,8 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "Bulgaria",
-        "count": "1"
-      },
-      {
         "city": "Bobo-Dioulasso",
         "country": "Burkina Faso",
-        "count": "1"
-      },
-      {
-        "city": "Bujumbura",
-        "country": "Burundi",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "Canada",
         "count": "1"
       },
       {
@@ -6513,11 +5913,6 @@
       {
         "city": "Vina del Mar",
         "country": "Chile",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "China",
         "count": "1"
       },
       {
@@ -6581,18 +5976,8 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "Colombia",
-        "count": "1"
-      },
-      {
         "city": "Tulua",
         "country": "Colombia",
-        "count": "1"
-      },
-      {
-        "city": "Heredia",
-        "country": "Costa Rica",
         "count": "1"
       },
       {
@@ -6616,11 +6001,6 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "Cuba",
-        "count": "1"
-      },
-      {
         "city": "Ostrava",
         "country": "Czechia",
         "count": "1"
@@ -6638,11 +6018,6 @@
       {
         "city": "Strakonice",
         "country": "Czechia",
-        "count": "1"
-      },
-      {
-        "city": "Abidjan",
-        "country": "Côte d’Ivoire",
         "count": "1"
       },
       {
@@ -6686,23 +6061,8 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "El Salvador",
-        "count": "1"
-      },
-      {
         "city": "Soyapango",
         "country": "El Salvador",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "Equatorial Guinea",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "Finland",
         "count": "1"
       },
       {
@@ -7281,11 +6641,6 @@
         "count": "1"
       },
       {
-        "city": "Gibraltar",
-        "country": "Gibraltar",
-        "count": "1"
-      },
-      {
         "city": "Chalandri",
         "country": "Greece",
         "count": "1"
@@ -7311,27 +6666,7 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "Guatemala",
-        "count": "1"
-      },
-      {
-        "city": "Bissau",
-        "country": "Guinea-Bissau",
-        "count": "1"
-      },
-      {
-        "city": "San Pedro Sula",
-        "country": "Honduras",
-        "count": "1"
-      },
-      {
         "city": "5742",
-        "country": "Hungary",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
         "country": "Hungary",
         "count": "1"
       },
@@ -7363,11 +6698,6 @@
       {
         "city": "45582",
         "country": "Indonesia",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "Iraq",
         "count": "1"
       },
       {
@@ -7606,28 +6936,8 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "Luxembourg",
-        "count": "1"
-      },
-      {
-        "city": "Esch-sur-Alzette",
-        "country": "Luxembourg",
-        "count": "1"
-      },
-      {
-        "city": "St. Paul's Bay",
-        "country": "Malta",
-        "count": "1"
-      },
-      {
         "city": "Le Lamentin",
         "country": "Martinique",
-        "count": "1"
-      },
-      {
-        "city": "Nouakchott",
-        "country": "Mauritania",
         "count": "1"
       },
       {
@@ -7858,16 +7168,6 @@
       {
         "city": "Lagos",
         "country": "Nigeria",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "North Macedonia",
-        "count": "1"
-      },
-      {
-        "city": "Municipality of Kumanovo",
-        "country": "North Macedonia",
         "count": "1"
       },
       {
@@ -8121,11 +7421,6 @@
         "count": "1"
       },
       {
-        "city": "(not set)",
-        "country": "Puerto Rico",
-        "count": "1"
-      },
-      {
         "city": "Mayaguez",
         "country": "Puerto Rico",
         "count": "1"
@@ -8218,11 +7513,6 @@
       {
         "city": "Vega Baja del Segura",
         "region": "Comunidad Valenciana",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "St. Martin",
         "count": "1"
       },
       {
@@ -8363,16 +7653,6 @@
       {
         "city": "Zollikon",
         "country": "Switzerland",
-        "count": "1"
-      },
-      {
-        "city": "(not set)",
-        "country": "Taiwan",
-        "count": "1"
-      },
-      {
-        "city": "Dar es Salaam",
-        "country": "Tanzania",
         "count": "1"
       },
       {
