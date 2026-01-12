@@ -1,28 +1,10 @@
 [
   {
-    "Timestamp": "2026-01-12 09:59:40",
-    "Realtime_App": 1,
-    "Realtime_Web": 7,
-    "First_Open_Diff_Total_30min": 0,
-    "First_Open_Acumulado_Android": 7649,
-    "First_Open_Acumulado_iOS": 7649,
-    "First_Open_Acumulado_Total": 15299,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-01-12 10:05:31",
-    "Realtime_App": 1,
-    "Realtime_Web": 7,
-    "First_Open_Realtime": 1,
-    "First_View_Realtime": 7,
+    "Timestamp": "2026-01-12 10:21:07",
+    "Realtime_App": 2,
+    "Realtime_Web": 6,
+    "First_Open_Realtime": 2,
+    "First_View_Realtime": 6,
     "First_Open_Acumulado_Total": 15299,
     "First_Open_Acumulado_Android": 7359,
     "First_Open_Acumulado_iOS": 7940,
@@ -6023,6 +6005,12 @@
         "count": "2"
       },
       {
+        "city": "",
+        "province": "Andalucía",
+        "country": "Spain",
+        "count": "2"
+      },
+      {
         "city": "Alexandria",
         "province": null,
         "country": "United States",
@@ -6771,12 +6759,6 @@
         "province": null,
         "country": "Netherlands",
         "count": "2"
-      },
-      {
-        "city": "",
-        "province": "Andalucía",
-        "country": "Spain",
-        "count": "1"
       },
       {
         "city": "",
