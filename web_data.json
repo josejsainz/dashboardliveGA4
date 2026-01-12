@@ -1,9 +1,9 @@
 [
   {
-    "Timestamp": "2026-01-12 09:00:08",
-    "Realtime_App": 2,
+    "Timestamp": "2026-01-12 09:30:17",
+    "Realtime_App": 3,
     "Realtime_Web": 3,
-    "First_Open_Realtime": 2,
+    "First_Open_Realtime": 3,
     "First_View_Realtime": 3,
     "First_Open_Acumulado_Total": 15299,
     "First_Open_Acumulado_Android": 7359,
@@ -2284,6 +2284,11 @@
         "count": "1"
       },
       {
+        "city": "",
+        "region": "Andalucía",
+        "count": "1"
+      },
+      {
         "city": "Bay of Cadiz",
         "region": "Andalucía",
         "count": "1"
@@ -2668,7 +2673,7 @@
       {
         "city": "Sevilla",
         "region": "Andalucía",
-        "count": "2.569"
+        "count": "2.570"
       },
       {
         "city": "Málaga",
@@ -7478,6 +7483,11 @@
       {
         "city": "Rustenburg",
         "country": "South Africa",
+        "count": "1"
+      },
+      {
+        "city": "",
+        "region": "Andalucía",
         "count": "1"
       },
       {
