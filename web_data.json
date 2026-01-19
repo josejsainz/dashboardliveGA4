@@ -1,28 +1,27 @@
 [
   {
-    "Timestamp": "2026-01-19 10:35:07",
-    "Realtime_App": 1,
+    "Timestamp": "2026-01-19 11:12:09",
+    "Realtime_App": 3,
     "Realtime_Web": 3,
-    "First_Open_Diff_Total_30min": 1,
-    "First_View_Realtime_Total": 1,
-    "First_Open_Acumulado_Android": 32,
-    "First_Open_Acumulado_iOS": 22,
+    "First_Open_Diff_Total_30min": 2,
+    "First_Open_Acumulado_Android": 27,
+    "First_Open_Acumulado_iOS": 27,
     "First_Open_Acumulado_Total": 54,
     "Device_Category_Mobile": 12,
     "Device_Category_Tablet": 2,
-    "Device_Category_Desktop": 28,
+    "Device_Category_Desktop": 29,
     "Device_Category_TV": 0,
     "Device_Category_Other": 0,
     "Browsers": {
-      "Chrome": 28,
+      "Chrome": 29,
       "Safari": 6,
       "Firefox": 5,
       "Opera": 1,
       "Samsung Internet": 1
     },
     "Browser_OS": {
+      "Windows": 14,
       "Macintosh": 13,
-      "Windows": 13,
       "Android": 9,
       "Linux": 7,
       "iOS": 5
@@ -44,7 +43,7 @@
         "city": "Alcobendas",
         "province": "Comunidad de Madrid",
         "country": "Spain",
-        "count": 11
+        "count": 12
       },
       {
         "city": "Collado Villalba",
@@ -76,7 +75,7 @@
         "city": "Madrid",
         "province": "Comunidad de Madrid",
         "country": "Spain",
-        "count": 17
+        "count": 18
       },
       {
         "city": "Alcobendas",
