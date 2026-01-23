@@ -3964,5 +3964,243 @@
         "count": 1
       }
     ]
+  },
+  {
+    "Timestamp": "2026-01-23 20:05:08",
+    "Realtime_App": 16,
+    "Realtime_Web": 10,
+    "First_Open_Diff_Total_30min": 6,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 194,
+    "First_Open_Acumulado_iOS": 65,
+    "First_Open_Acumulado_Total": 259,
+    "Device_Category_Mobile": 77,
+    "Device_Category_Tablet": 5,
+    "Device_Category_Desktop": 94,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 132,
+      "Safari": 16,
+      "Firefox": 12,
+      "Opera": 4,
+      "Samsung Internet": 3,
+      "Edge": 1
+    },
+    "Browser_OS": {
+      "Android": 65,
+      "Windows": 56,
+      "Macintosh": 25,
+      "Linux": 17,
+      "iOS": 13
+    },
+    "Geo_App": [
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 124
+      },
+      {
+        "city": "Madrid",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 78
+      },
+      {
+        "city": "Alcobendas",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 44
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 26
+      },
+      {
+        "city": "Collado Villalba",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 8
+      },
+      {
+        "city": "Alcalá de Henares",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 7
+      },
+      {
+        "city": "Jerez de la Frontera",
+        "province": "Andalucía",
+        "country": "Spain",
+        "count": 5
+      },
+      {
+        "city": "Pinto",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Valladolid",
+        "province": "Castilla y León",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Zaragoza",
+        "province": "Aragón",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "",
+        "province": "Andalucía",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Málaga",
+        "province": "Andalucía",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Salamanca",
+        "province": "Castilla y León",
+        "country": "Spain",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Madrid",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 59
+      },
+      {
+        "city": "Alcobendas",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 27
+      },
+      {
+        "city": "Majadahonda",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 27
+      },
+      {
+        "city": "Dublín",
+        "province": null,
+        "country": "Ireland",
+        "count": 15
+      },
+      {
+        "city": "Barcelona",
+        "province": "Cataluña",
+        "country": "Spain",
+        "count": 13
+      },
+      {
+        "city": "",
+        "province": null,
+        "country": "Netherlands",
+        "count": 11
+      },
+      {
+        "city": "Zaragoza",
+        "province": "Aragón",
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "Alcalá de Henares",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 4
+      },
+      {
+        "city": "",
+        "province": "Andalucía",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Collado Villalba",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Frankfurt am Main",
+        "province": null,
+        "country": "Germany",
+        "count": 2
+      },
+      {
+        "city": "Jerez de la Frontera",
+        "province": "Andalucía",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Leganés",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Móstoles",
+        "province": "Comunidad de Madrid",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Sacramento",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Valladolid",
+        "province": "Castilla y León",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "",
+        "province": "",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "",
+        "province": null,
+        "country": "India",
+        "count": 1
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Málaga",
+        "province": "Andalucía",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Toledo",
+        "province": "Castilla-La Mancha",
+        "country": "Spain",
+        "count": 1
+      }
+    ]
   }
 ]
