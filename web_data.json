@@ -3059,65 +3059,73 @@
     "Realtime_Web": 13,
     "First_Open_Diff_Total_30min": 0,
     "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 247,
-    "First_Open_Acumulado_iOS": 102,
-    "First_Open_Acumulado_Total": 349,
-    "Device_Category_Mobile": 87,
-    "Device_Category_Tablet": 5,
-    "Device_Category_Desktop": 124,
+    "First_Open_Acumulado_Android": 257,
+    "First_Open_Acumulado_iOS": 116,
+    "First_Open_Acumulado_Total": 373,
+    "Device_Category_Mobile": 103,
+    "Device_Category_Tablet": 11,
+    "Device_Category_Desktop": 142,
     "Device_Category_TV": 0,
     "Device_Category_Other": 0,
     "Browsers": {
-      "Chrome": 166,
-      "Safari": 20,
-      "Firefox": 11,
+      "Chrome": 192,
+      "Safari": 26,
+      "Firefox": 12,
       "Opera": 4,
+      "Android Webview": 3,
       "Samsung Internet": 3,
-      "Edge": 2
+      "Edge": 2,
+      "Safari (in-app)": 2
     },
     "Browser_OS": {
-      "Windows": 77,
-      "Android": 71,
-      "Macintosh": 31,
-      "Linux": 19,
-      "iOS": 18
+      "Windows": 91,
+      "Android": 83,
+      "Macintosh": 34,
+      "iOS": 27,
+      "Linux": 20
     },
     "Geo_App": [
       {
         "city": "Boardman",
         "province": "Oregon",
         "country": "United States",
-        "count": 159
+        "count": 160
       },
       {
         "city": "Madrid",
         "province": "Madrid",
         "country": "Spain",
-        "count": 104
+        "count": 113
       },
       {
         "city": "Alcobendas",
         "province": "Madrid",
         "country": "Spain",
-        "count": 64
+        "count": 67
       },
       {
         "city": "San Francisco",
         "province": "California",
         "country": "United States",
-        "count": 26
+        "count": 27
       },
       {
         "city": "Alcala de Henares",
         "province": "Madrid",
         "country": "Spain",
-        "count": 14
+        "count": 19
+      },
+      {
+        "city": "Collado Villalba",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 15
       },
       {
         "city": "(not set)",
         "province": "Castile and Leon",
         "country": "Spain",
-        "count": 11
+        "count": 12
       },
       {
         "city": "Zaragoza",
@@ -3126,16 +3134,10 @@
         "count": 10
       },
       {
-        "city": "Collado Villalba",
-        "province": "Madrid",
-        "country": "Spain",
-        "count": 9
-      },
-      {
         "city": "(not set)",
         "province": "Castile-La Mancha",
         "country": "Spain",
-        "count": 5
+        "count": 9
       },
       {
         "city": "Jerez de la Frontera",
@@ -3144,16 +3146,16 @@
         "count": 5
       },
       {
-        "city": "",
-        "province": "Castile-La Mancha",
-        "country": "Spain",
-        "count": 4
-      },
-      {
         "city": "(not set)",
         "province": "Andalusia",
         "country": "Spain",
         "count": 4
+      },
+      {
+        "city": "Valladolid",
+        "province": "Castile and Leon",
+        "country": "Spain",
+        "count": 3
       },
       {
         "city": "Bilbao",
@@ -3180,15 +3182,9 @@
         "count": 2
       },
       {
-        "city": "Valladolid",
-        "province": "Castile and Leon",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "",
-        "province": "Castile and Leon",
-        "country": "Spain",
+        "city": "(not set)",
+        "province": null,
+        "country": "(not set)",
         "count": 1
       },
       {
@@ -3204,6 +3200,12 @@
         "count": 1
       },
       {
+        "city": "(not set)",
+        "province": "County Waterford",
+        "country": "Ireland",
+        "count": 1
+      },
+      {
         "city": "Atlanta",
         "province": "Georgia",
         "country": "United States",
@@ -3216,15 +3218,45 @@
         "count": 1
       },
       {
+        "city": "Cupertino",
+        "province": "California",
+        "country": "United States",
+        "count": 1
+      },
+      {
         "city": "Galapagar",
         "province": "Madrid",
         "country": "Spain",
         "count": 1
       },
       {
+        "city": "Granada",
+        "province": "Andalusia",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Los Altos",
+        "province": "California",
+        "country": "United States",
+        "count": 1
+      },
+      {
         "city": "Malaga",
         "province": "Andalusia",
         "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": "Lisbon",
+        "country": "Portugal",
         "count": 1
       },
       {
@@ -3240,8 +3272,20 @@
         "count": 1
       },
       {
+        "city": "Slough",
+        "province": "England",
+        "country": "United Kingdom",
+        "count": 1
+      },
+      {
         "city": "Tarragona",
         "province": "Catalonia",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Toledo",
+        "province": "Castile-La Mancha",
         "country": "Spain",
         "count": 1
       }
@@ -3251,13 +3295,19 @@
         "city": "Madrid",
         "province": "Madrid",
         "country": "Spain",
-        "count": 79
+        "count": 96
       },
       {
         "city": "Majadahonda",
         "province": "Madrid",
         "country": "Spain",
-        "count": 36
+        "count": 42
+      },
+      {
+        "city": "Alcobendas",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 39
       },
       {
         "city": "(not set)",
@@ -3266,16 +3316,10 @@
         "count": 35
       },
       {
-        "city": "Alcobendas",
-        "province": "Madrid",
-        "country": "Spain",
-        "count": 35
-      },
-      {
         "city": "Barcelona",
         "province": "Catalonia",
         "country": "Spain",
-        "count": 21
+        "count": 24
       },
       {
         "city": "Dublin",
@@ -3287,23 +3331,35 @@
         "city": "Zaragoza",
         "province": "Aragon",
         "country": "Spain",
-        "count": 13
-      },
-      {
-        "city": "(not set)",
-        "province": null,
-        "country": "Spain",
-        "count": 5
+        "count": 14
       },
       {
         "city": "Alcala de Henares",
         "province": "Madrid",
         "country": "Spain",
-        "count": 5
+        "count": 8
       },
       {
         "city": "(not set)",
         "province": "Andalusia",
+        "country": "Spain",
+        "count": 7
+      },
+      {
+        "city": "",
+        "province": "",
+        "country": "Netherlands",
+        "count": 6
+      },
+      {
+        "city": "(not set)",
+        "province": null,
+        "country": "Spain",
+        "count": 6
+      },
+      {
+        "city": "(not set)",
+        "province": "Castile-La Mancha",
         "country": "Spain",
         "count": 4
       },
@@ -3320,21 +3376,33 @@
         "count": 3
       },
       {
-        "city": "(not set)",
-        "province": "Castile-La Mancha",
+        "city": "Ciudad Rodrigo",
+        "province": "Castile and Leon",
         "country": "Spain",
         "count": 3
-      },
-      {
-        "city": "",
-        "province": "Andalusia",
-        "country": "Spain",
-        "count": 2
       },
       {
         "city": "Collado Villalba",
         "province": "Madrid",
         "country": "Spain",
+        "count": 3
+      },
+      {
+        "city": "Fuenlabrada",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 3
+      },
+      {
+        "city": "Valencia",
+        "province": "Valencian Community",
+        "country": "Spain",
+        "count": 3
+      },
+      {
+        "city": "(not set)",
+        "province": "Lima Province",
+        "country": "Peru",
         "count": 2
       },
       {
@@ -3362,6 +3430,18 @@
         "count": 2
       },
       {
+        "city": "Segovia",
+        "province": "Castile and Leon",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Seville",
+        "province": "Andalusia",
+        "country": "Spain",
+        "count": 2
+      },
+      {
         "city": "Valladolid",
         "province": "Castile and Leon",
         "country": "Spain",
@@ -3369,20 +3449,8 @@
       },
       {
         "city": "",
-        "province": "Castile-La Mancha",
+        "province": "Andalusia",
         "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "",
-        "province": "Lima Province",
-        "country": "Peru",
-        "count": 1
-      },
-      {
-        "city": "(not set)",
-        "province": "Lima Province",
-        "country": "Peru",
         "count": 1
       },
       {
@@ -3404,12 +3472,6 @@
         "count": 1
       },
       {
-        "city": "Ciudad Rodrigo",
-        "province": "Castile and Leon",
-        "country": "Spain",
-        "count": 1
-      },
-      {
         "city": "Malaga",
         "province": "Andalusia",
         "country": "Spain",
@@ -3422,26 +3484,8 @@
         "count": 1
       },
       {
-        "city": "Segovia",
-        "province": "Castile and Leon",
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Seville",
-        "province": "Andalusia",
-        "country": "Spain",
-        "count": 1
-      },
-      {
         "city": "Toledo",
         "province": "Castile-La Mancha",
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Valencia",
-        "province": "Valencian Community",
         "country": "Spain",
         "count": 1
       }
