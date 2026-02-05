@@ -3077,17 +3077,13 @@
       "Edge": 2,
       "Safari (in-app)": 2
     },
-    "Browser_OS": {
-      "Linux": 3,
-      "Macintosh": 2,
-      "Windows": 2
-    },
+    "Browser_OS": {},
     "Geo_App": [
       {
         "city": "Boardman",
         "province": "Oregon",
         "country": "United States",
-        "count": 193
+        "count": 201
       },
       {
         "city": "Madrid",
