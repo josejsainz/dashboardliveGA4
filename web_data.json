@@ -190422,23 +190422,23 @@
     "Realtime_Web": 11925,
     "First_Open_Diff_Total_30min": 71,
     "First_View_Realtime_Total": 6370,
-    "First_Open_Acumulado_Android": 7502,
-    "First_Open_Acumulado_iOS": 8224,
-    "First_Open_Acumulado_Total": 15726,
-    "Device_Category_Mobile": 350206,
-    "Device_Category_Tablet": 5958,
-    "Device_Category_Desktop": 48872,
+    "First_Open_Acumulado_Android": 7503,
+    "First_Open_Acumulado_iOS": 8231,
+    "First_Open_Acumulado_Total": 15734,
+    "Device_Category_Mobile": 351535,
+    "Device_Category_Tablet": 5989,
+    "Device_Category_Desktop": 49061,
     "Device_Category_TV": 0,
     "Device_Category_Other": 0,
     "Browsers": {
-      "Chrome": 287561,
-      "Safari": 93133,
-      "Samsung Internet": 10458,
-      "Firefox": 5013,
-      "Edge": 4401,
-      "Opera": 2032,
-      "Safari (in-app)": 1445,
-      "Android Webview": 885,
+      "Chrome": 288310,
+      "Safari": 93763,
+      "Samsung Internet": 10499,
+      "Firefox": 5041,
+      "Edge": 4426,
+      "Opera": 2036,
+      "Safari (in-app)": 1446,
+      "Android Webview": 895,
       "YaBrowser": 8,
       "UC Browser": 7,
       "Aloha Browser": 6,
@@ -190449,11 +190449,11 @@
       "Whale Browser": 1
     },
     "Browser_OS": {
-      "Android": 243711,
-      "iOS": 112294,
-      "Windows": 36546,
-      "Macintosh": 8430,
-      "Linux": 3366,
+      "Android": 244387,
+      "iOS": 112965,
+      "Windows": 36683,
+      "Macintosh": 8484,
+      "Linux": 3377,
       "Chrome OS": 443,
       "Tizen": 7,
       "BlackBerry": 1
@@ -190463,19 +190463,19 @@
         "city": "Madrid",
         "province": "Madrid",
         "country": "Spain",
-        "count": 4178
+        "count": 4190
       },
       {
         "city": "Zaragoza",
         "province": "Aragon",
         "country": "Spain",
-        "count": 2490
+        "count": 2494
       },
       {
         "city": "Barcelona",
         "province": "Catalonia",
         "country": "Spain",
-        "count": 1637
+        "count": 1641
       },
       {
         "city": "(not set)",
@@ -190487,13 +190487,13 @@
         "city": "Seville",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 742
+        "count": 745
       },
       {
         "city": "Valencia",
         "province": "Valencian Community",
         "country": "Spain",
-        "count": 694
+        "count": 697
       },
       {
         "city": "(not set)",
@@ -190523,7 +190523,7 @@
         "city": "Valladolid",
         "province": "Castile and Leon",
         "country": "Spain",
-        "count": 357
+        "count": 359
       },
       {
         "city": "(not set)",
@@ -190571,7 +190571,7 @@
         "city": "Alicante",
         "province": "Valencian Community",
         "country": "Spain",
-        "count": 143
+        "count": 144
       },
       {
         "city": "Las Palmas de Gran Canaria",
@@ -190601,7 +190601,7 @@
         "city": "Palma",
         "province": "Balearic Islands",
         "country": "Spain",
-        "count": 114
+        "count": 115
       },
       {
         "city": "Pamplona",
@@ -190613,7 +190613,7 @@
         "city": "Teruel",
         "province": "Aragon",
         "country": "Spain",
-        "count": 113
+        "count": 114
       },
       {
         "city": "Salamanca",
@@ -190685,13 +190685,19 @@
         "city": "Gijon",
         "province": "Asturias",
         "country": "Spain",
-        "count": 77
+        "count": 78
       },
       {
         "city": "Las Rozas de Madrid",
         "province": "Madrid",
         "country": "Spain",
         "count": 77
+      },
+      {
+        "city": "",
+        "province": "Aragon",
+        "country": "Spain",
+        "count": 76
       },
       {
         "city": "Almeria",
@@ -190718,22 +190724,16 @@
         "count": 68
       },
       {
+        "city": "Caceres‎",
+        "province": "Extremadura",
+        "country": "Spain",
+        "count": 66
+      },
+      {
         "city": "Albacete",
         "province": "Castile-La Mancha",
         "country": "Spain",
         "count": 65
-      },
-      {
-        "city": "Caceres‎",
-        "province": "Extremadura",
-        "country": "Spain",
-        "count": 65
-      },
-      {
-        "city": "",
-        "province": "Aragon",
-        "country": "Spain",
-        "count": 63
       },
       {
         "city": "Cadiz",
@@ -190790,6 +190790,12 @@
         "count": 57
       },
       {
+        "city": "",
+        "province": "Andalusia",
+        "country": "Spain",
+        "count": 56
+      },
+      {
         "city": "Burgos",
         "province": "Castile and Leon",
         "country": "Spain",
@@ -190799,7 +190805,7 @@
         "city": "Huelva",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 54
+        "count": 55
       },
       {
         "city": "Pozuelo de Alarcon",
@@ -190842,12 +190848,6 @@
         "province": "Catalonia",
         "country": "Spain",
         "count": 49
-      },
-      {
-        "city": "",
-        "province": "Andalusia",
-        "country": "Spain",
-        "count": 48
       },
       {
         "city": "L'Hospitalet de Llobregat",
@@ -191065,25 +191065,25 @@
         "city": "Madrid",
         "province": "Madrid",
         "country": "Spain",
-        "count": 64015
+        "count": 64321
       },
       {
         "city": "Valencia",
         "province": "Valencian Community",
         "country": "Spain",
-        "count": 39224
+        "count": 39454
       },
       {
         "city": "Barcelona",
         "province": "Catalonia",
         "country": "Spain",
-        "count": 28960
+        "count": 29088
       },
       {
         "city": "Zaragoza",
         "province": "Aragon",
         "country": "Spain",
-        "count": 25775
+        "count": 25877
       },
       {
         "city": "(not set)",
@@ -191101,31 +191101,31 @@
         "city": "Seville",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 13563
+        "count": 13636
       },
       {
         "city": "Bilbao",
         "province": "Basque Country",
         "country": "Spain",
-        "count": 12671
+        "count": 12711
       },
       {
         "city": "Malaga",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 9732
+        "count": 9768
       },
       {
         "city": "Vigo",
         "province": "Galicia",
         "country": "Spain",
-        "count": 7988
+        "count": 8025
       },
       {
         "city": "Valladolid",
         "province": "Castile and Leon",
         "country": "Spain",
-        "count": 7742
+        "count": 7763
       },
       {
         "city": "(not set)",
@@ -191149,43 +191149,43 @@
         "city": "Palma",
         "province": "Balearic Islands",
         "country": "Spain",
-        "count": 4819
+        "count": 4840
       },
       {
         "city": "A Coruna",
         "province": "Galicia",
         "country": "Spain",
-        "count": 4639
+        "count": 4655
       },
       {
         "city": "Granada",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 3980
+        "count": 3999
       },
       {
         "city": "Las Palmas de Gran Canaria",
         "province": "Canary Islands",
         "country": "Spain",
-        "count": 3851
+        "count": 3877
       },
       {
         "city": "Alicante",
         "province": "Valencian Community",
         "country": "Spain",
-        "count": 3582
+        "count": 3597
       },
       {
         "city": "Murcia",
         "province": "Region of Murcia",
         "country": "Spain",
-        "count": 3018
+        "count": 3034
       },
       {
         "city": "Pamplona",
         "province": "Navarre",
         "country": "Spain",
-        "count": 2816
+        "count": 2831
       },
       {
         "city": "(not set)",
@@ -191221,13 +191221,13 @@
         "city": "Castelldefels",
         "province": "Catalonia",
         "country": "Spain",
-        "count": 1877
+        "count": 1882
       },
       {
         "city": "Cordoba",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 1852
+        "count": 1858
       },
       {
         "city": "(not set)",
@@ -191239,31 +191239,31 @@
         "city": "Tarragona",
         "province": "Catalonia",
         "country": "Spain",
-        "count": 1728
+        "count": 1734
       },
       {
         "city": "Jerez de la Frontera",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 1706
+        "count": 1708
       },
       {
         "city": "Gijon",
         "province": "Asturias",
         "country": "Spain",
-        "count": 1679
+        "count": 1684
       },
       {
         "city": "Huesca",
         "province": "Aragon",
         "country": "Spain",
-        "count": 1599
+        "count": 1607
       },
       {
         "city": "Oviedo",
         "province": "Asturias",
         "country": "Spain",
-        "count": 1557
+        "count": 1565
       },
       {
         "city": "(not set)",
@@ -191275,13 +191275,19 @@
         "city": "Salamanca",
         "province": "Castile and Leon",
         "country": "Spain",
-        "count": 1503
+        "count": 1515
       },
       {
         "city": "Alcala de Henares",
         "province": "Madrid",
         "country": "Spain",
-        "count": 1469
+        "count": 1473
+      },
+      {
+        "city": "Donostia / San Sebastian",
+        "province": "Basque Country",
+        "country": "Spain",
+        "count": 1435
       },
       {
         "city": "(not set)",
@@ -191290,16 +191296,10 @@
         "count": 1432
       },
       {
-        "city": "Donostia / San Sebastian",
-        "province": "Basque Country",
-        "country": "Spain",
-        "count": 1426
-      },
-      {
         "city": "Vitoria-Gasteiz",
         "province": "Basque Country",
         "country": "Spain",
-        "count": 1394
+        "count": 1407
       },
       {
         "city": "(not set)",
@@ -191311,127 +191311,127 @@
         "city": "Leon",
         "province": "Castile and Leon",
         "country": "Spain",
-        "count": 1329
+        "count": 1336
       },
       {
         "city": "Burgos",
         "province": "Castile and Leon",
         "country": "Spain",
-        "count": 1289
-      },
-      {
-        "city": "Santiago de Compostela",
-        "province": "Galicia",
-        "country": "Spain",
-        "count": 1208
-      },
-      {
-        "city": "Albacete",
-        "province": "Castile-La Mancha",
-        "country": "Spain",
-        "count": 1199
-      },
-      {
-        "city": "Santander",
-        "province": "Cantabria",
-        "country": "Spain",
-        "count": 1125
-      },
-      {
-        "city": "Santa Cruz de Tenerife",
-        "province": "Canary Islands",
-        "country": "Spain",
-        "count": 1116
+        "count": 1296
       },
       {
         "city": "",
         "province": "",
         "country": "Spain",
-        "count": 1038
+        "count": 1238
+      },
+      {
+        "city": "Santiago de Compostela",
+        "province": "Galicia",
+        "country": "Spain",
+        "count": 1218
+      },
+      {
+        "city": "Albacete",
+        "province": "Castile-La Mancha",
+        "country": "Spain",
+        "count": 1202
+      },
+      {
+        "city": "Santander",
+        "province": "Cantabria",
+        "country": "Spain",
+        "count": 1129
+      },
+      {
+        "city": "Santa Cruz de Tenerife",
+        "province": "Canary Islands",
+        "country": "Spain",
+        "count": 1125
       },
       {
         "city": "Logrono",
         "province": "La Rioja",
         "country": "Spain",
-        "count": 1038
-      },
-      {
-        "city": "Almeria",
-        "province": "Andalusia",
-        "country": "Spain",
-        "count": 1016
+        "count": 1044
       },
       {
         "city": "Mostoles",
         "province": "Madrid",
         "country": "Spain",
-        "count": 1016
+        "count": 1021
       },
       {
         "city": "Toledo",
         "province": "Castile-La Mancha",
         "country": "Spain",
-        "count": 1016
+        "count": 1020
+      },
+      {
+        "city": "Almeria",
+        "province": "Andalusia",
+        "country": "Spain",
+        "count": 1018
       },
       {
         "city": "Getafe",
         "province": "Madrid",
         "country": "Spain",
-        "count": 990
+        "count": 996
       },
       {
         "city": "Terrassa",
         "province": "Catalonia",
         "country": "Spain",
-        "count": 978
+        "count": 987
       },
       {
         "city": "Castellon de la Plana",
         "province": "Valencian Community",
         "country": "Spain",
-        "count": 977
+        "count": 979
       },
       {
         "city": "Leganes",
         "province": "Madrid",
         "country": "Spain",
-        "count": 942
+        "count": 943
       },
       {
         "city": "Teruel",
         "province": "Aragon",
         "country": "Spain",
-        "count": 935
+        "count": 940
       },
       {
         "city": "Fuenlabrada",
         "province": "Madrid",
         "country": "Spain",
-        "count": 882
+        "count": 884
       },
       {
         "city": "Guadalajara",
         "province": "Castile-La Mancha",
         "country": "Spain",
-        "count": 880
+        "count": 882
       },
       {
         "city": "Sabadell",
         "province": "Catalonia",
         "country": "Spain",
-        "count": 870
+        "count": 873
       },
       {
         "city": "Pontevedra",
         "province": "Galicia",
         "country": "Spain",
-        "count": 851
+        "count": 854
       },
       {
         "city": "L'Hospitalet de Llobregat",
         "province": "Catalonia",
         "country": "Spain",
-        "count": 846
+        "count": 849
       },
       {
         "city": "(not set)",
@@ -191443,31 +191443,31 @@
         "city": "Caceres‎",
         "province": "Extremadura",
         "country": "Spain",
-        "count": 819
+        "count": 821
       },
       {
         "city": "Torrejon de Ardoz",
         "province": "Madrid",
         "country": "Spain",
-        "count": 817
+        "count": 819
       },
       {
         "city": "Badajoz",
         "province": "Extremadura",
         "country": "Spain",
-        "count": 812
+        "count": 814
       },
       {
         "city": "Lleida",
         "province": "Catalonia",
         "country": "Spain",
-        "count": 802
+        "count": 807
       },
       {
         "city": "Las Rozas de Madrid",
         "province": "Madrid",
         "country": "Spain",
-        "count": 800
+        "count": 805
       },
       {
         "city": "(not set)",
@@ -191479,25 +191479,25 @@
         "city": "Badalona",
         "province": "Catalonia",
         "country": "Spain",
-        "count": 777
+        "count": 779
       },
       {
         "city": "Alcorcon",
         "province": "Madrid",
         "country": "Spain",
-        "count": 770
+        "count": 777
       },
       {
         "city": "Marbella",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 768
+        "count": 770
       },
       {
         "city": "Jaen",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 757
+        "count": 758
       },
       {
         "city": "(not set)",
@@ -191509,157 +191509,157 @@
         "city": "Ourense",
         "province": "Galicia",
         "country": "Spain",
-        "count": 751
+        "count": 754
       },
       {
         "city": "Cartagena",
         "province": "Region of Murcia",
         "country": "Spain",
-        "count": 746
+        "count": 750
       },
       {
         "city": "Elche",
         "province": "Valencian Community",
         "country": "Spain",
-        "count": 726
+        "count": 730
       },
       {
         "city": "Palencia",
         "province": "Castile and Leon",
         "country": "Spain",
-        "count": 705
+        "count": 712
       },
       {
         "city": "Cadiz",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 701
+        "count": 703
       },
       {
         "city": "Alcobendas",
         "province": "Madrid",
         "country": "Spain",
-        "count": 699
+        "count": 701
       },
       {
         "city": "Mairena del Aljarafe",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 690
+        "count": 693
       },
       {
         "city": "Huelva",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 686
+        "count": 687
       },
       {
         "city": "Algeciras",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 655
+        "count": 656
       },
       {
         "city": "Lugo",
         "province": "Galicia",
         "country": "Spain",
-        "count": 639
+        "count": 645
       },
       {
         "city": "Ciudad Real",
         "province": "Castile-La Mancha",
         "country": "Spain",
-        "count": 632
+        "count": 636
       },
       {
         "city": "Rivas-Vaciamadrid",
         "province": "Madrid",
         "country": "Spain",
-        "count": 619
+        "count": 624
       },
       {
         "city": "Torrent",
         "province": "Valencian Community",
         "country": "Spain",
-        "count": 612
+        "count": 614
       },
       {
         "city": "Fuengirola",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 609
-      },
-      {
-        "city": "Segovia",
-        "province": "Castile and Leon",
-        "country": "Spain",
-        "count": 595
-      },
-      {
-        "city": "Coslada",
-        "province": "Madrid",
-        "country": "Spain",
-        "count": 565
-      },
-      {
-        "city": "San Vicente de Barakaldo",
-        "province": "Basque Country",
-        "country": "Spain",
-        "count": 563
-      },
-      {
-        "city": "San Fernando",
-        "province": "Andalusia",
-        "country": "Spain",
-        "count": 552
-      },
-      {
-        "city": "Collado Villalba",
-        "province": "Madrid",
-        "country": "Spain",
-        "count": 550
-      },
-      {
-        "city": "Benidorm",
-        "province": "Valencian Community",
-        "country": "Spain",
-        "count": 548
-      },
-      {
-        "city": "Aviles",
-        "province": "Asturias",
-        "country": "Spain",
-        "count": 537
+        "count": 613
       },
       {
         "city": "",
         "province": "Andalusia",
         "country": "Spain",
-        "count": 532
+        "count": 602
+      },
+      {
+        "city": "Segovia",
+        "province": "Castile and Leon",
+        "country": "Spain",
+        "count": 599
+      },
+      {
+        "city": "Coslada",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 569
+      },
+      {
+        "city": "San Vicente de Barakaldo",
+        "province": "Basque Country",
+        "country": "Spain",
+        "count": 567
+      },
+      {
+        "city": "Collado Villalba",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 553
+      },
+      {
+        "city": "San Fernando",
+        "province": "Andalusia",
+        "country": "Spain",
+        "count": 553
+      },
+      {
+        "city": "Benidorm",
+        "province": "Valencian Community",
+        "country": "Spain",
+        "count": 550
+      },
+      {
+        "city": "Aviles",
+        "province": "Asturias",
+        "country": "Spain",
+        "count": 538
       },
       {
         "city": "San Cristobal de La Laguna",
         "province": "Canary Islands",
         "country": "Spain",
-        "count": 529
+        "count": 531
       },
       {
         "city": "Valdemoro",
         "province": "Madrid",
         "country": "Spain",
-        "count": 528
+        "count": 531
       },
       {
         "city": "Majadahonda",
         "province": "Madrid",
         "country": "Spain",
-        "count": 514
+        "count": 516
       },
       {
-        "city": "Torrevieja",
-        "province": "Valencian Community",
+        "city": "El Puerto de Santa Maria",
+        "province": "Andalusia",
         "country": "Spain",
-        "count": 507
+        "count": 509
       }
     ]
   }
