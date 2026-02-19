@@ -691,9 +691,9 @@
     "First_Open_Realtime_Total": 1,
     "First_Open_Realtime_Android": 0,
     "First_Open_Realtime_iOS": 1,
-    "First_Open_Acumulado_Total": 16,
+    "First_Open_Acumulado_Total": 18,
     "First_Open_Acumulado_Android": 7,
-    "First_Open_Acumulado_iOS": 9,
+    "First_Open_Acumulado_iOS": 11,
     "First_Open_Diff_Total_30min": 1,
     "First_Open_Diff_Android_30min": 0,
     "First_Open_Diff_iOS_30min": 1,
@@ -714,7 +714,7 @@
         "city": "Bogota",
         "province": "Bogota",
         "country": "Colombia",
-        "count": 15
+        "count": 18
       },
       {
         "city": "Madrid",
