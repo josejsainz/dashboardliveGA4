@@ -358,5 +358,51 @@
         "count": 3
       }
     ]
+  },
+  {
+    "Timestamp": "2026-02-19 19:00:04",
+    "Realtime_App": 4,
+    "Realtime_Web": 3,
+    "First_Open_Diff_Android_30min": 1,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 1,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 9,
+    "First_Open_Acumulado_iOS": 19,
+    "First_Open_Acumulado_Total": 28,
+    "Device_Category_Mobile": 0,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 3,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 3
+    },
+    "Browser_OS": {
+      "Macintosh": 2,
+      "Windows": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 28
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 3
+      }
+    ]
   }
 ]
