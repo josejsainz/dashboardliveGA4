@@ -793,5 +793,147 @@
         "count": 2
       }
     ]
+  },
+  {
+    "Timestamp": "2026-02-21 12:30:04",
+    "Realtime_App": 9,
+    "Realtime_Web": 8,
+    "First_Open_Diff_Android_30min": 5,
+    "First_Open_Diff_iOS_30min": 2,
+    "First_Open_Diff_Total_30min": 7,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 39,
+    "First_Open_Acumulado_iOS": 41,
+    "First_Open_Acumulado_Total": 80,
+    "Device_Category_Mobile": 3,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 39,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 31,
+      "Safari": 6,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 18,
+      "Windows": 16,
+      "Linux": 6,
+      "iOS": 2,
+      "Android": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 57
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Medellín",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 33
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
   }
 ]
