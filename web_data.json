@@ -1150,5 +1150,98 @@
         "count": 16
       }
     ]
+  },
+  {
+    "Timestamp": "2026-02-20 19:30:04",
+    "Realtime_App": 8,
+    "Realtime_Web": 9,
+    "First_Open_Diff_Android_30min": 1,
+    "First_Open_Diff_iOS_30min": 1,
+    "First_Open_Diff_Total_30min": 2,
+    "First_View_Realtime_Total": 2,
+    "First_Open_Acumulado_Android": 24,
+    "First_Open_Acumulado_iOS": 31,
+    "First_Open_Acumulado_Total": 55,
+    "Device_Category_Mobile": 1,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 20,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 15,
+      "Safari": 3,
+      "Edge": 2,
+      "Firefox": 1
+    },
+    "Browser_OS": {
+      "Windows": 9,
+      "Macintosh": 7,
+      "Linux": 4,
+      "iOS": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 45
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 16
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      }
+    ]
   }
 ]
