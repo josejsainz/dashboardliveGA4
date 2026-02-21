@@ -331,5 +331,116 @@
         "count": 2
       }
     ]
+  },
+  {
+    "Timestamp": "2026-02-21 10:30:04",
+    "Realtime_App": 2,
+    "Realtime_Web": 14,
+    "First_Open_Diff_Android_30min": 0,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 0,
+    "First_View_Realtime_Total": 2,
+    "First_Open_Acumulado_Android": 32,
+    "First_Open_Acumulado_iOS": 36,
+    "First_Open_Acumulado_Total": 68,
+    "Device_Category_Mobile": 1,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 35,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 27,
+      "Safari": 4,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 16,
+      "Windows": 14,
+      "Linux": 6,
+      "iOS": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 51
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 30
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      }
+    ]
   }
 ]
