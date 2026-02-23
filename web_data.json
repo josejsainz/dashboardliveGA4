@@ -2188,9 +2188,9 @@
     "First_Open_Diff_iOS_30min": 0,
     "First_Open_Diff_Total_30min": 0,
     "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 50,
-    "First_Open_Acumulado_iOS": 44,
-    "First_Open_Acumulado_Total": 94,
+    "First_Open_Acumulado_Android": 55,
+    "First_Open_Acumulado_iOS": 51,
+    "First_Open_Acumulado_Total": 106,
     "Device_Category_Mobile": 5,
     "Device_Category_Tablet": 1,
     "Device_Category_Desktop": 42,
@@ -2211,44 +2211,62 @@
     },
     "Geo_App": [
       {
-        "city": "Bogotá",
-        "province": "Bogotá D.C.",
+        "city": "Bogota",
+        "province": "Bogota",
         "country": "Colombia",
-        "count": 63
+        "count": 65
       },
       {
         "city": "Atlanta",
-        "province": null,
+        "province": "Georgia",
         "country": "United States",
-        "count": 12
+        "count": 13
+      },
+      {
+        "city": "(not set)",
+        "province": null,
+        "country": "(not set)",
+        "count": 8
       },
       {
         "city": "Boardman",
-        "province": null,
+        "province": "Oregon",
         "country": "United States",
-        "count": 7
+        "count": 8
       },
       {
         "city": "Madrid",
-        "province": null,
+        "province": "Madrid",
         "country": "Spain",
         "count": 2
       },
       {
         "city": "San Francisco",
-        "province": null,
+        "province": "California",
         "country": "United States",
         "count": 2
       },
       {
         "city": "Saratoga",
-        "province": null,
+        "province": "California",
         "country": "United States",
         "count": 2
       },
       {
-        "city": "Alcala de Henares",
+        "city": "(not set)",
         "province": null,
+        "country": "Peru",
+        "count": 1
+      },
+      {
+        "city": "(not set)",
+        "province": "Castile-La Mancha",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": "Madrid",
         "country": "Spain",
         "count": 1
       },
@@ -2260,69 +2278,87 @@
       },
       {
         "city": "Los Altos Hills",
-        "province": null,
+        "province": "California",
         "country": "United States",
         "count": 1
       },
       {
         "city": "Los Gatos",
-        "province": null,
+        "province": "California",
         "country": "United States",
         "count": 1
       },
       {
-        "city": "Medellín",
+        "city": "Medellin",
         "province": "Antioquia",
         "country": "Colombia",
         "count": 1
       },
       {
         "city": "Mountain View",
-        "province": null,
+        "province": "California",
         "country": "United States",
         "count": 1
       },
       {
         "city": "Paco de Arcos",
-        "province": null,
+        "province": "Lisbon",
         "country": "Portugal",
         "count": 1
       },
       {
         "city": "Sacramento",
-        "province": null,
+        "province": "California",
         "country": "United States",
         "count": 1
       },
       {
         "city": "San Jose",
-        "province": null,
+        "province": "California",
         "country": "United States",
         "count": 1
       }
     ],
     "Geo_Web": [
       {
-        "city": "Bogotá",
-        "province": "Bogotá D.C.",
+        "city": "Bogota",
+        "province": "Bogota",
         "country": "Colombia",
         "count": 36
       },
       {
-        "city": "Reston",
+        "city": "(not set)",
         "province": null,
         "country": "United States",
         "count": 2
       },
       {
-        "city": "Atlanta",
+        "city": "Reston",
+        "province": "Virginia",
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "(not set)",
         "province": null,
+        "country": "Peru",
+        "count": 1
+      },
+      {
+        "city": "(not set)",
+        "province": "Magdalena",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Atlanta",
+        "province": "Georgia",
         "country": "United States",
         "count": 1
       },
       {
         "city": "Barcelona",
-        "province": null,
+        "province": "Catalonia",
         "country": "Spain",
         "count": 1
       },
@@ -2334,14 +2370,20 @@
       },
       {
         "city": "Mostoles",
-        "province": null,
+        "province": "Madrid",
         "country": "Spain",
         "count": 1
       },
       {
         "city": "Sacramento",
-        "province": null,
+        "province": "California",
         "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Valencia",
+        "province": "Valencian Community",
+        "country": "Spain",
         "count": 1
       }
     ]
