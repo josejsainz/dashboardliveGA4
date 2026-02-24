@@ -2188,33 +2188,39 @@
     "First_Open_Diff_iOS_30min": 0,
     "First_Open_Diff_Total_30min": 0,
     "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 55,
-    "First_Open_Acumulado_iOS": 51,
-    "First_Open_Acumulado_Total": 106,
-    "Device_Category_Mobile": 5,
+    "First_Open_Acumulado_Android": 153,
+    "First_Open_Acumulado_iOS": 62,
+    "First_Open_Acumulado_Total": 215,
+    "Device_Category_Mobile": 9,
     "Device_Category_Tablet": 1,
-    "Device_Category_Desktop": 42,
+    "Device_Category_Desktop": 47,
     "Device_Category_TV": 0,
     "Device_Category_Other": 0,
     "Browsers": {
-      "Chrome": 36,
-      "Safari": 6,
-      "Firefox": 4,
+      "Chrome": 41,
+      "Safari": 8,
+      "Firefox": 6,
       "Edge": 2
     },
     "Browser_OS": {
+      "Windows": 22,
       "Macintosh": 18,
-      "Windows": 18,
-      "Linux": 7,
-      "Android": 3,
-      "iOS": 3
+      "Linux": 8,
+      "iOS": 6,
+      "Android": 4
     },
     "Geo_App": [
+      {
+        "city": "Boardman",
+        "province": "Oregon",
+        "country": "United States",
+        "count": 94
+      },
       {
         "city": "Bogota",
         "province": "Bogota",
         "country": "Colombia",
-        "count": 65
+        "count": 82
       },
       {
         "city": "Atlanta",
@@ -2229,15 +2235,33 @@
         "count": 8
       },
       {
-        "city": "Boardman",
-        "province": "Oregon",
+        "city": "Saratoga",
+        "province": "California",
         "country": "United States",
-        "count": 8
+        "count": 3
+      },
+      {
+        "city": "",
+        "province": "",
+        "country": "",
+        "count": 2
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": "California",
+        "country": "United States",
+        "count": 2
       },
       {
         "city": "Madrid",
         "province": "Madrid",
         "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Mountain View",
+        "province": "California",
+        "country": "United States",
         "count": 2
       },
       {
@@ -2247,7 +2271,7 @@
         "count": 2
       },
       {
-        "city": "Saratoga",
+        "city": "San Jose",
         "province": "California",
         "country": "United States",
         "count": 2
@@ -2277,9 +2301,15 @@
         "count": 1
       },
       {
-        "city": "Los Altos Hills",
-        "province": "California",
-        "country": "United States",
+        "city": "Kuala Lumpur",
+        "province": "Federal Territory of Kuala Lumpur",
+        "country": "Malaysia",
+        "count": 1
+      },
+      {
+        "city": "London",
+        "province": "England",
+        "country": "United Kingdom",
         "count": 1
       },
       {
@@ -2295,12 +2325,6 @@
         "count": 1
       },
       {
-        "city": "Mountain View",
-        "province": "California",
-        "country": "United States",
-        "count": 1
-      },
-      {
         "city": "Paco de Arcos",
         "province": "Lisbon",
         "country": "Portugal",
@@ -2311,12 +2335,6 @@
         "province": "California",
         "country": "United States",
         "count": 1
-      },
-      {
-        "city": "San Jose",
-        "province": "California",
-        "country": "United States",
-        "count": 1
       }
     ],
     "Geo_Web": [
@@ -2324,12 +2342,18 @@
         "city": "Bogota",
         "province": "Bogota",
         "country": "Colombia",
-        "count": 36
+        "count": 40
       },
       {
         "city": "(not set)",
         "province": null,
         "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcobendas",
+        "province": "Madrid",
+        "country": "Spain",
         "count": 2
       },
       {
@@ -2366,6 +2390,12 @@
         "city": "Envigado",
         "province": "Antioquia",
         "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Angeles",
+        "province": "California",
+        "country": "United States",
         "count": 1
       },
       {
