@@ -2188,9 +2188,9 @@
     "First_Open_Diff_iOS_30min": 0,
     "First_Open_Diff_Total_30min": 0,
     "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 153,
-    "First_Open_Acumulado_iOS": 62,
-    "First_Open_Acumulado_Total": 215,
+    "First_Open_Acumulado_Android": 178,
+    "First_Open_Acumulado_iOS": 66,
+    "First_Open_Acumulado_Total": 244,
     "Device_Category_Mobile": 9,
     "Device_Category_Tablet": 1,
     "Device_Category_Desktop": 47,
@@ -2207,20 +2207,20 @@
       "Macintosh": 18,
       "Linux": 8,
       "iOS": 6,
-      "Android": 4
+      "Android": 5
     },
     "Geo_App": [
       {
         "city": "Boardman",
         "province": "Oregon",
         "country": "United States",
-        "count": 94
+        "count": 119
       },
       {
         "city": "Bogota",
         "province": "Bogota",
         "country": "Colombia",
-        "count": 82
+        "count": 86
       },
       {
         "city": "Atlanta",
@@ -2232,7 +2232,13 @@
         "city": "(not set)",
         "province": null,
         "country": "(not set)",
-        "count": 8
+        "count": 10
+      },
+      {
+        "city": "Madrid",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 3
       },
       {
         "city": "Saratoga",
@@ -2241,21 +2247,9 @@
         "count": 3
       },
       {
-        "city": "",
-        "province": "",
-        "country": "",
-        "count": 2
-      },
-      {
         "city": "Los Altos Hills",
         "province": "California",
         "country": "United States",
-        "count": 2
-      },
-      {
-        "city": "Madrid",
-        "province": "Madrid",
-        "country": "Spain",
         "count": 2
       },
       {
@@ -2342,7 +2336,7 @@
         "city": "Bogota",
         "province": "Bogota",
         "country": "Colombia",
-        "count": 40
+        "count": 41
       },
       {
         "city": "(not set)",
@@ -2384,6 +2378,12 @@
         "city": "Barcelona",
         "province": "Catalonia",
         "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Barranquilla",
+        "province": "Atlantico",
+        "country": "Colombia",
         "count": 1
       },
       {
