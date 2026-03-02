@@ -1007,9 +1007,9 @@
     "First_Open_Diff_iOS_30min": 0,
     "First_Open_Diff_Total_30min": 0,
     "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 25,
-    "First_Open_Acumulado_iOS": 35,
-    "First_Open_Acumulado_Total": 60,
+    "First_Open_Acumulado_Android": 33,
+    "First_Open_Acumulado_iOS": 41,
+    "First_Open_Acumulado_Total": 74,
     "Device_Category_Mobile": 0,
     "Device_Category_Tablet": 0,
     "Device_Category_Desktop": 0,
@@ -1022,13 +1022,13 @@
         "city": "Salamanca",
         "province": "Salamanca",
         "country": "Spain",
-        "count": 35
+        "count": 36
       },
       {
         "city": "Madrid",
         "province": null,
         "country": "Spain",
-        "count": 23
+        "count": 28
       },
       {
         "city": "Las Palmas de Gran Canaria",
@@ -1040,11 +1040,29 @@
         "city": "Bogota",
         "province": null,
         "country": "Colombia",
-        "count": 5
+        "count": 7
+      },
+      {
+        "city": "Villaviciosa de Odon",
+        "province": null,
+        "country": "Spain",
+        "count": 6
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 4
       },
       {
         "city": "Burgos",
         "province": "Burgos",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Fuenlabrada",
+        "province": null,
         "country": "Spain",
         "count": 2
       },
@@ -1055,6 +1073,12 @@
         "count": 2
       },
       {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
         "city": "Camino Real del Puerto de la Mesa",
         "province": null,
         "country": "Spain",
@@ -1062,6 +1086,12 @@
       },
       {
         "city": "Maspalomas",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
         "province": null,
         "country": "Spain",
         "count": 1
