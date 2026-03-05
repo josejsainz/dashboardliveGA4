@@ -1007,17 +1007,31 @@
     "First_Open_Diff_iOS_30min": 0,
     "First_Open_Diff_Total_30min": 0,
     "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 33,
-    "First_Open_Acumulado_iOS": 41,
-    "First_Open_Acumulado_Total": 74,
-    "Device_Category_Mobile": 0,
+    "First_Open_Acumulado_Android": 89,
+    "First_Open_Acumulado_iOS": 65,
+    "First_Open_Acumulado_Total": 154,
+    "Device_Category_Mobile": 1,
     "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
+    "Device_Category_Desktop": 2,
     "Device_Category_TV": 0,
     "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
+    "Browsers": {
+      "Chrome": 2,
+      "Safari": 1
+    },
+    "Browser_OS": {
+      "Android": 1,
+      "Macintosh": 1,
+      "Windows": 1,
+      "iOS": 1
+    },
     "Geo_App": [
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 56
+      },
       {
         "city": "Salamanca",
         "province": "Salamanca",
@@ -1025,34 +1039,64 @@
         "count": 36
       },
       {
-        "city": "Madrid",
+        "city": "Boardman",
         "province": null,
-        "country": "Spain",
+        "country": "United States",
         "count": 28
       },
       {
         "city": "Las Palmas de Gran Canaria",
         "province": null,
         "country": "Spain",
-        "count": 19
+        "count": 21
       },
       {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 7
-      },
-      {
-        "city": "Villaviciosa de Odon",
+        "city": "Alcobendas",
         "province": null,
         "country": "Spain",
-        "count": 6
+        "count": 18
       },
       {
         "city": "Alcala de Henares",
         "province": null,
         "country": "Spain",
+        "count": 8
+      },
+      {
+        "city": "Bogota",
+        "province": null,
+        "country": "Colombia",
+        "count": 8
+      },
+      {
+        "city": "Maspalomas",
+        "province": null,
+        "country": "Spain",
+        "count": 8
+      },
+      {
+        "city": "Villaviciosa de Odon",
+        "province": null,
+        "country": "Spain",
+        "count": 8
+      },
+      {
+        "city": "Fuenlabrada",
+        "province": null,
+        "country": "Spain",
         "count": 4
+      },
+      {
+        "city": "Torrijos",
+        "province": null,
+        "country": "Spain",
+        "count": 4
+      },
+      {
+        "city": "Valladolid",
+        "province": "Valladolid",
+        "country": "Spain",
+        "count": 3
       },
       {
         "city": "Burgos",
@@ -1061,9 +1105,15 @@
         "count": 2
       },
       {
-        "city": "Fuenlabrada",
+        "city": "Collado Villalba",
         "province": null,
         "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
         "count": 2
       },
       {
@@ -1073,9 +1123,9 @@
         "count": 2
       },
       {
-        "city": "Boardman",
+        "city": "Bengaluru",
         "province": null,
-        "country": "United States",
+        "country": "India",
         "count": 1
       },
       {
@@ -1085,13 +1135,25 @@
         "count": 1
       },
       {
-        "city": "Maspalomas",
+        "city": "Las Rozas de Madrid",
         "province": null,
         "country": "Spain",
         "count": 1
       },
       {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
         "city": "Mostoles",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Pinto",
         "province": null,
         "country": "Spain",
         "count": 1
@@ -1103,12 +1165,37 @@
         "count": 1
       },
       {
-        "city": "Valladolid",
-        "province": "Valladolid",
+        "city": "San Cristobal de La Laguna",
+        "province": null,
         "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Seattle",
+        "province": null,
+        "country": "United States",
         "count": 1
       }
     ],
-    "Geo_Web": []
+    "Geo_Web": [
+      {
+        "city": "Alcobendas",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
   }
 ]
