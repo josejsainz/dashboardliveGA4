@@ -1,1143 +1,67 @@
 [
   {
-    "Timestamp": "2026-02-28 02:00:05",
-    "Realtime_App": 0,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 0,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 0,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 18,
-    "First_Open_Acumulado_iOS": 32,
-    "First_Open_Acumulado_Total": 50,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 34
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 18
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 17
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 02:30:04",
-    "Realtime_App": 0,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 0,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 0,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 18,
-    "First_Open_Acumulado_iOS": 33,
-    "First_Open_Acumulado_Total": 51,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 34
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 18
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 17
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 03:00:03",
-    "Realtime_App": 0,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 0,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 0,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 18,
-    "First_Open_Acumulado_iOS": 33,
-    "First_Open_Acumulado_Total": 51,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 34
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 18
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 17
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 03:30:04",
-    "Realtime_App": 3,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 1,
-    "First_Open_Diff_iOS_30min": 1,
-    "First_Open_Diff_Total_30min": 2,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 18,
-    "First_Open_Acumulado_iOS": 33,
-    "First_Open_Acumulado_Total": 51,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 34
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 18
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 17
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 04:00:04",
-    "Realtime_App": 7,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 1,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 1,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 18,
-    "First_Open_Acumulado_iOS": 33,
-    "First_Open_Acumulado_Total": 51,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 34
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 18
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 17
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 04:30:04",
-    "Realtime_App": 8,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 1,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 1,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 20,
-    "First_Open_Acumulado_iOS": 35,
-    "First_Open_Acumulado_Total": 55,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 34
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 19
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 18
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Camino Real del Puerto de la Mesa",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 05:00:04",
-    "Realtime_App": 7,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 0,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 0,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 21,
-    "First_Open_Acumulado_iOS": 35,
-    "First_Open_Acumulado_Total": 56,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 35
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 19
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 18
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Camino Real del Puerto de la Mesa",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Valladolid",
-        "province": "Valladolid",
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 05:30:04",
-    "Realtime_App": 4,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 0,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 0,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 22,
-    "First_Open_Acumulado_iOS": 35,
-    "First_Open_Acumulado_Total": 57,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 35
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 21
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 18
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Camino Real del Puerto de la Mesa",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Valladolid",
-        "province": "Valladolid",
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 06:00:04",
-    "Realtime_App": 9,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 2,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 2,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 22,
-    "First_Open_Acumulado_iOS": 35,
-    "First_Open_Acumulado_Total": 57,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 35
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 21
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 18
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Camino Real del Puerto de la Mesa",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Valladolid",
-        "province": "Valladolid",
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 06:30:04",
-    "Realtime_App": 7,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 0,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 0,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 22,
-    "First_Open_Acumulado_iOS": 35,
-    "First_Open_Acumulado_Total": 57,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 35
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 21
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 18
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Camino Real del Puerto de la Mesa",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Valladolid",
-        "province": "Valladolid",
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 07:00:04",
-    "Realtime_App": 5,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 0,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 0,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 23,
-    "First_Open_Acumulado_iOS": 35,
-    "First_Open_Acumulado_Total": 58,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 35
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 22
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 18
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Camino Real del Puerto de la Mesa",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Valladolid",
-        "province": "Valladolid",
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 07:30:04",
-    "Realtime_App": 6,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 0,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 0,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 24,
-    "First_Open_Acumulado_iOS": 35,
-    "First_Open_Acumulado_Total": 59,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 35
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 22
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 19
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Camino Real del Puerto de la Mesa",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Valladolid",
-        "province": "Valladolid",
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 08:00:04",
-    "Realtime_App": 5,
-    "Realtime_Web": 0,
-    "First_Open_Diff_Android_30min": 0,
-    "First_Open_Diff_iOS_30min": 0,
-    "First_Open_Diff_Total_30min": 0,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 24,
-    "First_Open_Acumulado_iOS": 35,
-    "First_Open_Acumulado_Total": 59,
-    "Device_Category_Mobile": 0,
-    "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 0,
-    "Device_Category_TV": 0,
-    "Device_Category_Other": 0,
-    "Browsers": {},
-    "Browser_OS": {},
-    "Geo_App": [
-      {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 35
-      },
-      {
-        "city": "Madrid",
-        "province": null,
-        "country": "Spain",
-        "count": 22
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 19
-      },
-      {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 5
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Camino Real del Puerto de la Mesa",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Valladolid",
-        "province": "Valladolid",
-        "country": "Spain",
-        "count": 1
-      }
-    ],
-    "Geo_Web": []
-  },
-  {
-    "Timestamp": "2026-02-28 08:30:04",
+    "Timestamp": "2026-02-21 09:00:05",
     "Realtime_App": 1,
-    "Realtime_Web": 0,
+    "Realtime_Web": 7,
     "First_Open_Diff_Android_30min": 0,
     "First_Open_Diff_iOS_30min": 0,
     "First_Open_Diff_Total_30min": 0,
-    "First_View_Realtime_Total": 0,
-    "First_Open_Acumulado_Android": 89,
-    "First_Open_Acumulado_iOS": 65,
-    "First_Open_Acumulado_Total": 154,
+    "First_View_Realtime_Total": 3,
+    "First_Open_Acumulado_Android": 30,
+    "First_Open_Acumulado_iOS": 35,
+    "First_Open_Acumulado_Total": 65,
     "Device_Category_Mobile": 1,
     "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 2,
+    "Device_Category_Desktop": 27,
     "Device_Category_TV": 0,
     "Device_Category_Other": 0,
     "Browsers": {
-      "Chrome": 2,
-      "Safari": 1
+      "Chrome": 21,
+      "Safari": 3,
+      "Edge": 2,
+      "Firefox": 2
     },
     "Browser_OS": {
-      "Android": 1,
-      "Macintosh": 1,
-      "Windows": 1,
+      "Macintosh": 14,
+      "Windows": 10,
+      "Linux": 4,
       "iOS": 1
     },
     "Geo_App": [
       {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 51
+      },
+      {
         "city": "Madrid",
         "province": null,
         "country": "Spain",
-        "count": 56
+        "count": 2
       },
       {
-        "city": "Salamanca",
-        "province": "Salamanca",
-        "country": "Spain",
-        "count": 36
-      },
-      {
-        "city": "Boardman",
+        "city": "Saratoga",
         "province": null,
         "country": "United States",
-        "count": 28
-      },
-      {
-        "city": "Las Palmas de Gran Canaria",
-        "province": null,
-        "country": "Spain",
-        "count": 21
-      },
-      {
-        "city": "Alcobendas",
-        "province": null,
-        "country": "Spain",
-        "count": 18
+        "count": 2
       },
       {
         "city": "Alcala de Henares",
         "province": null,
         "country": "Spain",
-        "count": 8
+        "count": 1
       },
       {
-        "city": "Bogota",
-        "province": null,
-        "country": "Colombia",
-        "count": 8
-      },
-      {
-        "city": "Maspalomas",
-        "province": null,
-        "country": "Spain",
-        "count": 8
-      },
-      {
-        "city": "Villaviciosa de Odon",
-        "province": null,
-        "country": "Spain",
-        "count": 8
-      },
-      {
-        "city": "Fuenlabrada",
-        "province": null,
-        "country": "Spain",
-        "count": 4
-      },
-      {
-        "city": "Torrijos",
-        "province": null,
-        "country": "Spain",
-        "count": 4
-      },
-      {
-        "city": "Valladolid",
-        "province": "Valladolid",
-        "country": "Spain",
-        "count": 3
-      },
-      {
-        "city": "Burgos",
-        "province": "Burgos",
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Collado Villalba",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Mountain View",
+        "city": "Boardman",
         "province": null,
         "country": "United States",
-        "count": 2
-      },
-      {
-        "city": "Vecindario",
-        "province": null,
-        "country": "Spain",
-        "count": 2
-      },
-      {
-        "city": "Bengaluru",
-        "province": null,
-        "country": "India",
         "count": 1
       },
       {
-        "city": "Camino Real del Puerto de la Mesa",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Las Rozas de Madrid",
-        "province": null,
-        "country": "Spain",
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
         "count": 1
       },
       {
@@ -1147,37 +71,25 @@
         "count": 1
       },
       {
-        "city": "Mostoles",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Pinto",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Puerto del Rosario",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "San Cristobal de La Laguna",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "San Jose",
+        "city": "Los Gatos",
         "province": null,
         "country": "United States",
         "count": 1
       },
       {
-        "city": "Seattle",
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
         "province": null,
         "country": "United States",
         "count": 1
@@ -1185,14 +97,2876 @@
     ],
     "Geo_Web": [
       {
-        "city": "Alcobendas",
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 23
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 09:30:05",
+    "Realtime_App": 6,
+    "Realtime_Web": 12,
+    "First_Open_Diff_Android_30min": 1,
+    "First_Open_Diff_iOS_30min": 1,
+    "First_Open_Diff_Total_30min": 2,
+    "First_View_Realtime_Total": 4,
+    "First_Open_Acumulado_Android": 31,
+    "First_Open_Acumulado_iOS": 36,
+    "First_Open_Acumulado_Total": 67,
+    "Device_Category_Mobile": 1,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 28,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 22,
+      "Safari": 3,
+      "Edge": 2,
+      "Firefox": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 14,
+      "Windows": 11,
+      "Linux": 4,
+      "iOS": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 51
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
         "province": null,
         "country": "Spain",
         "count": 1
       },
       {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 24
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 10:00:05",
+    "Realtime_App": 7,
+    "Realtime_Web": 15,
+    "First_Open_Diff_Android_30min": 5,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 5,
+    "First_View_Realtime_Total": 1,
+    "First_Open_Acumulado_Android": 32,
+    "First_Open_Acumulado_iOS": 36,
+    "First_Open_Acumulado_Total": 68,
+    "Device_Category_Mobile": 1,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 33,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 26,
+      "Firefox": 3,
+      "Safari": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 15,
+      "Windows": 13,
+      "Linux": 6,
+      "iOS": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 51
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
         "city": "Madrid",
         "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 29
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 10:30:04",
+    "Realtime_App": 2,
+    "Realtime_Web": 14,
+    "First_Open_Diff_Android_30min": 0,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 0,
+    "First_View_Realtime_Total": 2,
+    "First_Open_Acumulado_Android": 32,
+    "First_Open_Acumulado_iOS": 36,
+    "First_Open_Acumulado_Total": 68,
+    "Device_Category_Mobile": 1,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 35,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 27,
+      "Safari": 4,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 16,
+      "Windows": 14,
+      "Linux": 6,
+      "iOS": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 51
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 30
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 11:00:04",
+    "Realtime_App": 4,
+    "Realtime_Web": 13,
+    "First_Open_Diff_Android_30min": 0,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 0,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 36,
+    "First_Open_Acumulado_iOS": 37,
+    "First_Open_Acumulado_Total": 73,
+    "Device_Category_Mobile": 1,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 35,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 27,
+      "Safari": 4,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 16,
+      "Windows": 14,
+      "Linux": 6,
+      "iOS": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 53
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 30
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 11:30:05",
+    "Realtime_App": 8,
+    "Realtime_Web": 11,
+    "First_Open_Diff_Android_30min": 1,
+    "First_Open_Diff_iOS_30min": 1,
+    "First_Open_Diff_Total_30min": 2,
+    "First_View_Realtime_Total": 2,
+    "First_Open_Acumulado_Android": 36,
+    "First_Open_Acumulado_iOS": 37,
+    "First_Open_Acumulado_Total": 73,
+    "Device_Category_Mobile": 1,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 37,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 28,
+      "Safari": 5,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 17,
+      "Windows": 15,
+      "Linux": 6,
+      "iOS": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 53
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 31
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 12:00:05",
+    "Realtime_App": 15,
+    "Realtime_Web": 12,
+    "First_Open_Diff_Android_30min": 5,
+    "First_Open_Diff_iOS_30min": 9,
+    "First_Open_Diff_Total_30min": 14,
+    "First_View_Realtime_Total": 2,
+    "First_Open_Acumulado_Android": 37,
+    "First_Open_Acumulado_iOS": 37,
+    "First_Open_Acumulado_Total": 74,
+    "Device_Category_Mobile": 1,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 38,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 29,
+      "Safari": 5,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 17,
+      "Windows": 16,
+      "Linux": 6,
+      "iOS": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 54
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 32
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 12:30:04",
+    "Realtime_App": 9,
+    "Realtime_Web": 8,
+    "First_Open_Diff_Android_30min": 5,
+    "First_Open_Diff_iOS_30min": 2,
+    "First_Open_Diff_Total_30min": 7,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 39,
+    "First_Open_Acumulado_iOS": 41,
+    "First_Open_Acumulado_Total": 80,
+    "Device_Category_Mobile": 3,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 39,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 31,
+      "Safari": 6,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 18,
+      "Windows": 16,
+      "Linux": 6,
+      "iOS": 2,
+      "Android": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 57
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Medellín",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 33
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 13:00:06",
+    "Realtime_App": 5,
+    "Realtime_Web": 7,
+    "First_Open_Diff_Android_30min": 1,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 1,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 42,
+    "First_Open_Acumulado_iOS": 41,
+    "First_Open_Acumulado_Total": 83,
+    "Device_Category_Mobile": 3,
+    "Device_Category_Tablet": 1,
+    "Device_Category_Desktop": 39,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 32,
+      "Safari": 6,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 18,
+      "Windows": 16,
+      "Linux": 6,
+      "iOS": 3,
+      "Android": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 57
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 8
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Medellín",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 33
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Envigado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 13:30:04",
+    "Realtime_App": 7,
+    "Realtime_Web": 5,
+    "First_Open_Diff_Android_30min": 1,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 1,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 44,
+    "First_Open_Acumulado_iOS": 42,
+    "First_Open_Acumulado_Total": 86,
+    "Device_Category_Mobile": 3,
+    "Device_Category_Tablet": 1,
+    "Device_Category_Desktop": 39,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 32,
+      "Safari": 6,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 18,
+      "Windows": 16,
+      "Linux": 6,
+      "iOS": 3,
+      "Android": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 58
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 9
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Medellín",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "Sacramento",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 33
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Envigado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 14:00:04",
+    "Realtime_App": 4,
+    "Realtime_Web": 10,
+    "First_Open_Diff_Android_30min": 1,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 1,
+    "First_View_Realtime_Total": 1,
+    "First_Open_Acumulado_Android": 45,
+    "First_Open_Acumulado_iOS": 43,
+    "First_Open_Acumulado_Total": 88,
+    "Device_Category_Mobile": 3,
+    "Device_Category_Tablet": 1,
+    "Device_Category_Desktop": 39,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 32,
+      "Safari": 6,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 18,
+      "Windows": 16,
+      "Linux": 6,
+      "iOS": 3,
+      "Android": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 60
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 12
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Medellín",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "Sacramento",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 33
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Envigado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 14:30:04",
+    "Realtime_App": 6,
+    "Realtime_Web": 7,
+    "First_Open_Diff_Android_30min": 0,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 0,
+    "First_View_Realtime_Total": 1,
+    "First_Open_Acumulado_Android": 46,
+    "First_Open_Acumulado_iOS": 44,
+    "First_Open_Acumulado_Total": 90,
+    "Device_Category_Mobile": 3,
+    "Device_Category_Tablet": 1,
+    "Device_Category_Desktop": 39,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 32,
+      "Safari": 6,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 18,
+      "Windows": 16,
+      "Linux": 6,
+      "iOS": 3,
+      "Android": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 60
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 12
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Medellín",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "Sacramento",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 33
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Envigado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 15:00:05",
+    "Realtime_App": 7,
+    "Realtime_Web": 7,
+    "First_Open_Diff_Android_30min": 1,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 1,
+    "First_View_Realtime_Total": 1,
+    "First_Open_Acumulado_Android": 47,
+    "First_Open_Acumulado_iOS": 44,
+    "First_Open_Acumulado_Total": 91,
+    "Device_Category_Mobile": 3,
+    "Device_Category_Tablet": 1,
+    "Device_Category_Desktop": 40,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 33,
+      "Safari": 6,
+      "Firefox": 3,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 18,
+      "Windows": 17,
+      "Linux": 6,
+      "iOS": 3,
+      "Android": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 62
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 12
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 6
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Medellín",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "Sacramento",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 34
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Envigado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 15:30:04",
+    "Realtime_App": 6,
+    "Realtime_Web": 9,
+    "First_Open_Diff_Android_30min": 1,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 1,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 47,
+    "First_Open_Acumulado_iOS": 44,
+    "First_Open_Acumulado_Total": 91,
+    "Device_Category_Mobile": 3,
+    "Device_Category_Tablet": 1,
+    "Device_Category_Desktop": 41,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 33,
+      "Safari": 6,
+      "Firefox": 4,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 18,
+      "Windows": 17,
+      "Linux": 7,
+      "iOS": 3,
+      "Android": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 62
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 12
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 6
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Medellín",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "Sacramento",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 35
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Envigado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 16:00:04",
+    "Realtime_App": 4,
+    "Realtime_Web": 8,
+    "First_Open_Diff_Android_30min": 0,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 0,
+    "First_View_Realtime_Total": 1,
+    "First_Open_Acumulado_Android": 48,
+    "First_Open_Acumulado_iOS": 44,
+    "First_Open_Acumulado_Total": 92,
+    "Device_Category_Mobile": 4,
+    "Device_Category_Tablet": 1,
+    "Device_Category_Desktop": 41,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 34,
+      "Safari": 6,
+      "Firefox": 4,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 18,
+      "Windows": 17,
+      "Linux": 7,
+      "iOS": 3,
+      "Android": 2
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 63
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 12
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 6
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Medellín",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "Sacramento",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 35
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Envigado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 16:30:04",
+    "Realtime_App": 3,
+    "Realtime_Web": 9,
+    "First_Open_Diff_Android_30min": 0,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 0,
+    "First_View_Realtime_Total": 1,
+    "First_Open_Acumulado_Android": 50,
+    "First_Open_Acumulado_iOS": 44,
+    "First_Open_Acumulado_Total": 94,
+    "Device_Category_Mobile": 5,
+    "Device_Category_Tablet": 1,
+    "Device_Category_Desktop": 41,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 35,
+      "Safari": 6,
+      "Firefox": 4,
+      "Edge": 2
+    },
+    "Browser_OS": {
+      "Macintosh": 18,
+      "Windows": 17,
+      "Linux": 7,
+      "Android": 3,
+      "iOS": 3
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 63
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 12
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 7
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Los Gatos",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Medellín",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mountain View",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "Sacramento",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 35
+      },
+      {
+        "city": "Reston",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Atlanta",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Envigado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Mostoles",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Sacramento",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "Timestamp": "2026-02-21 17:00:04",
+    "Realtime_App": 4,
+    "Realtime_Web": 4,
+    "First_Open_Diff_Android_30min": 0,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 0,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 328,
+    "First_Open_Acumulado_iOS": 333,
+    "First_Open_Acumulado_Total": 661,
+    "Device_Category_Mobile": 50,
+    "Device_Category_Tablet": 2,
+    "Device_Category_Desktop": 85,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 87,
+      "Safari": 22,
+      "Firefox": 16,
+      "Edge": 4,
+      "Opera": 3,
+      "Samsung Internet": 3
+    },
+    "Browser_OS": {
+      "Android": 38,
+      "Windows": 35,
+      "Macintosh": 32,
+      "Linux": 19,
+      "iOS": 18
+    },
+    "Geo_App": [
+      {
+        "city": "Bogota",
+        "province": "Bogota",
+        "country": "Colombia",
+        "count": 206
+      },
+      {
+        "city": "Boardman",
+        "province": "Oregon",
+        "country": "United States",
+        "count": 167
+      },
+      {
+        "city": "Medellin",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 35
+      },
+      {
+        "city": "Barranquilla",
+        "province": "Atlantico",
+        "country": "Colombia",
+        "count": 28
+      },
+      {
+        "city": "(not set)",
+        "province": null,
+        "country": "(not set)",
+        "count": 22
+      },
+      {
+        "city": "Cali",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 21
+      },
+      {
+        "city": "Arjona",
+        "province": "Bolivar",
+        "country": "Colombia",
+        "count": 13
+      },
+      {
+        "city": "Atlanta",
+        "province": "Georgia",
+        "country": "United States",
+        "count": 13
+      },
+      {
+        "city": "San Jose",
+        "province": "California",
+        "country": "United States",
+        "count": 8
+      },
+      {
+        "city": "Madrid",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 6
+      },
+      {
+        "city": "Valledupar",
+        "province": "Cesar",
+        "country": "Colombia",
+        "count": 6
+      },
+      {
+        "city": "Bucaramanga",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 5
+      },
+      {
+        "city": "Dosquebradas",
+        "province": "Risaralda",
+        "country": "Colombia",
+        "count": 5
+      },
+      {
+        "city": "Los Altos Hills",
+        "province": "California",
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Mountain View",
+        "province": "California",
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "",
+        "province": "",
+        "country": "",
+        "count": 4
+      },
+      {
+        "city": "",
+        "province": "Magdalena",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Armenia",
+        "province": "Quindio",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Cucuta",
+        "province": "North Santander",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Popayan",
+        "province": "Cauca",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Saratoga",
+        "province": "California",
+        "country": "United States",
+        "count": 4
+      },
+      {
+        "city": "Sincelejo",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "",
+        "province": "Bolivar",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "",
+        "province": "North Santander",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Cupertino",
+        "province": "California",
+        "country": "United States",
+        "count": 3
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Ibague",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Los Altos",
+        "province": "California",
+        "country": "United States",
+        "count": 3
+      },
+      {
+        "city": "Los Gatos",
+        "province": "California",
+        "country": "United States",
+        "count": 3
+      },
+      {
+        "city": "Monteria",
+        "province": "Cordoba",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Neiva",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Pasto",
+        "province": "Narino",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "San Francisco",
+        "province": "California",
+        "country": "United States",
+        "count": 3
+      },
+      {
+        "city": "Santa Clara",
+        "province": "California",
+        "country": "United States",
+        "count": 3
+      },
+      {
+        "city": "Slough",
+        "province": "England",
+        "country": "United Kingdom",
+        "count": 3
+      },
+      {
+        "city": "",
+        "province": "San Andres and Providencia",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "(not set)",
+        "province": null,
+        "country": "Netherlands",
+        "count": 2
+      },
+      {
+        "city": "Aracataca",
+        "province": "Magdalena",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Envigado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Guaduas",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Itagui",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Libano",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "London",
+        "province": "England",
+        "country": "United Kingdom",
+        "count": 2
+      },
+      {
+        "city": "Magangue",
+        "province": "Bolivar",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Maicao",
+        "province": "La Guajira",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Pereira",
+        "province": "Risaralda",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Pitalito",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Sabanagrande",
+        "province": "Atlantico",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Sunnyvale",
+        "province": "California",
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Tunja",
+        "province": "Boyaca",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Villavicencio",
+        "province": "Meta",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Yumbo",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "",
+        "province": "Caldas",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "",
+        "province": "Cauca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "",
+        "province": "Cordoba",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "",
+        "province": "Guaviare",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "(not set)",
+        "province": null,
+        "country": "Peru",
+        "count": 1
+      },
+      {
+        "city": "(not set)",
+        "province": "Castile-La Mancha",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "53562",
+        "province": "Rhineland-Palatinate",
+        "country": "Germany",
+        "count": 1
+      },
+      {
+        "city": "Adelaide",
+        "province": "South Australia",
+        "country": "Australia",
+        "count": 1
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Barrancabermeja",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Calpella",
+        "province": "California",
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Campbell",
+        "province": "California",
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Charlotte",
+        "province": "North Carolina",
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Chicago",
+        "province": "Illinois",
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Chimichagua",
+        "province": "Cesar",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Chinu",
+        "province": "Cordoba",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Frankfurt am Main",
+        "province": "Hessen",
+        "country": "Germany",
+        "count": 1
+      },
+      {
+        "city": "Fundacion",
+        "province": "Magdalena",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Garzon",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Guacari",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Guatemala City",
+        "province": "Guatemala Department",
+        "country": "Guatemala",
+        "count": 1
+      },
+      {
+        "city": "Kuala Lumpur",
+        "province": "Federal Territory of Kuala Lumpur",
+        "country": "Malaysia",
+        "count": 1
+      },
+      {
+        "city": "La Mesa",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Majagual",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Manaus",
+        "province": "State of Amazonas",
+        "country": "Brazil",
+        "count": 1
+      },
+      {
+        "city": "Montreal",
+        "province": "Quebec",
+        "country": "Canada",
+        "count": 1
+      },
+      {
+        "city": "Morrinhos",
+        "province": "State of Goias",
+        "country": "Brazil",
+        "count": 1
+      },
+      {
+        "city": "Paco de Arcos",
+        "province": "Lisbon",
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "Panama City",
+        "province": "",
+        "country": "Panama",
+        "count": 1
+      },
+      {
+        "city": "Riohacha",
+        "province": "La Guajira",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Riosucio",
+        "province": "Caldas",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Sabanalarga",
+        "province": "Atlantico",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Sacramento",
+        "province": "California",
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Salamanca",
+        "province": "Castile and Leon",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "San Gil",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "San Juan Nepomuceno",
+        "province": "Bolivar",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "San Luis de Since",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "San Pedro",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Santa Rosa de Cabal",
+        "province": "Risaralda",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Santo Domingo",
+        "province": "",
+        "country": "Dominican Republic",
+        "count": 1
+      },
+      {
+        "city": "Surprise",
+        "province": "Arizona",
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Suwanee",
+        "province": "Georgia",
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Tierralta",
+        "province": "Cordoba",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Tolu",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Tulua",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogota",
+        "province": "Bogota",
+        "country": "Colombia",
+        "count": 90
+      },
+      {
+        "city": "Atlanta",
+        "province": "Georgia",
+        "country": "United States",
+        "count": 11
+      },
+      {
+        "city": "(not set)",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Alcobendas",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 4
+      },
+      {
+        "city": "Mostoles",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 4
+      },
+      {
+        "city": "Madrid",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 3
+      },
+      {
+        "city": "Barranquilla",
+        "province": "Atlantico",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Boardman",
+        "province": "Oregon",
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Cali",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Reston",
+        "province": "Virginia",
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "(not set)",
+        "province": null,
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "(not set)",
+        "province": null,
+        "country": "Peru",
+        "count": 1
+      },
+      {
+        "city": "(not set)",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "(not set)",
+        "province": "Colorado",
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "(not set)",
+        "province": "Magdalena",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Amsterdam",
+        "province": "North Holland",
+        "country": "Netherlands",
+        "count": 1
+      },
+      {
+        "city": "Barcelona",
+        "province": "Catalonia",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Colmenar Viejo",
+        "province": "Madrid",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Cucuta",
+        "province": "North Santander",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Envigado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Los Angeles",
+        "province": "California",
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Manizales",
+        "province": "Caldas",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Sacramento",
+        "province": "California",
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Salamanca",
+        "province": "Castile and Leon",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Valencia",
+        "province": "Valencian Community",
         "country": "Spain",
         "count": 1
       }
