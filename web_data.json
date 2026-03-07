@@ -1768,5 +1768,1817 @@
         "count": 31
       }
     ]
+  },
+  {
+    "Timestamp": "2026-03-07 11:50:04",
+    "Realtime_App": 212,
+    "Realtime_Web": 10,
+    "First_Open_Diff_Android_30min": 58,
+    "First_Open_Diff_iOS_30min": 61,
+    "First_Open_Diff_Total_30min": 119,
+    "First_View_Realtime_Total": 1,
+    "First_Open_Acumulado_Android": 1358,
+    "First_Open_Acumulado_iOS": 2631,
+    "First_Open_Acumulado_Total": 3989,
+    "Device_Category_Mobile": 13,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 26,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 23,
+      "Firefox": 5,
+      "Safari": 3,
+      "Edge": 1,
+      "Opera": 1,
+      "Samsung Internet": 1
+    },
+    "Browser_OS": {
+      "Android": 11,
+      "Windows": 11,
+      "Macintosh": 8,
+      "Linux": 7,
+      "iOS": 2
+    },
+    "Geo_App": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 1162
+      },
+      {
+        "city": "Medellín",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 552
+      },
+      {
+        "city": "Barranquilla",
+        "province": "Atlántico",
+        "country": "Colombia",
+        "count": 428
+      },
+      {
+        "city": "Cali",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 304
+      },
+      {
+        "city": "Arjona",
+        "province": "Bolívar",
+        "country": "Colombia",
+        "count": 141
+      },
+      {
+        "city": "Bucaramanga",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 90
+      },
+      {
+        "city": "Montería",
+        "province": "Córdoba",
+        "country": "Colombia",
+        "count": 71
+      },
+      {
+        "city": "Valledupar",
+        "province": "Cesar",
+        "country": "Colombia",
+        "count": 63
+      },
+      {
+        "city": "Sincelejo",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 54
+      },
+      {
+        "city": "Cúcuta",
+        "province": "North Santander",
+        "country": "Colombia",
+        "count": 48
+      },
+      {
+        "city": "Ibagué",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 40
+      },
+      {
+        "city": "Chia",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 39
+      },
+      {
+        "city": "Manizales",
+        "province": "Caldas",
+        "country": "Colombia",
+        "count": 39
+      },
+      {
+        "city": "Villavicencio",
+        "province": "Meta",
+        "country": "Colombia",
+        "count": 39
+      },
+      {
+        "city": "Pasto",
+        "province": "Narino",
+        "country": "Colombia",
+        "count": 37
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 36
+      },
+      {
+        "city": "Tunja",
+        "province": "Boyacá",
+        "country": "Colombia",
+        "count": 36
+      },
+      {
+        "city": "Envigado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 35
+      },
+      {
+        "city": "Riohacha",
+        "province": "La Guajira",
+        "country": "Colombia",
+        "count": 33
+      },
+      {
+        "city": "Pereira",
+        "province": "Risaralda",
+        "country": "Colombia",
+        "count": 31
+      },
+      {
+        "city": "Armenia",
+        "province": "Quindío",
+        "country": "Colombia",
+        "count": 29
+      },
+      {
+        "city": "Neiva",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 26
+      },
+      {
+        "city": "Facatativa",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 22
+      },
+      {
+        "city": "Cienaga de Oro",
+        "province": "Córdoba",
+        "country": "Colombia",
+        "count": 20
+      },
+      {
+        "city": "Popayán",
+        "province": "Cauca",
+        "country": "Colombia",
+        "count": 20
+      },
+      {
+        "city": "Zipaquira",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 18
+      },
+      {
+        "city": "Quibdo",
+        "province": "Chocó",
+        "country": "Colombia",
+        "count": 17
+      },
+      {
+        "city": "Dosquebradas",
+        "province": "Risaralda",
+        "country": "Colombia",
+        "count": 16
+      },
+      {
+        "city": "Floridablanca",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 16
+      },
+      {
+        "city": "Sogamoso",
+        "province": "Boyacá",
+        "country": "Colombia",
+        "count": 16
+      },
+      {
+        "city": "Tulua",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 15
+      },
+      {
+        "city": "Palmira",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 14
+      },
+      {
+        "city": "El Carmen de Bolivar",
+        "province": "Bolívar",
+        "country": "Colombia",
+        "count": 13
+      },
+      {
+        "city": "Maicao",
+        "province": "La Guajira",
+        "country": "Colombia",
+        "count": 13
+      },
+      {
+        "city": "Ocana",
+        "province": "North Santander",
+        "country": "Colombia",
+        "count": 13
+      },
+      {
+        "city": "Bello",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 12
+      },
+      {
+        "city": "Fusagasuga",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 12
+      },
+      {
+        "city": "Carmen de Viboral",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 11
+      },
+      {
+        "city": "Girardot",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 11
+      },
+      {
+        "city": "Itagui",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 11
+      },
+      {
+        "city": "Barrancabermeja",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 10
+      },
+      {
+        "city": "Barrancas",
+        "province": "La Guajira",
+        "country": "Colombia",
+        "count": 10
+      },
+      {
+        "city": "El Santuario",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 10
+      },
+      {
+        "city": "Lorica",
+        "province": "Córdoba",
+        "country": "Colombia",
+        "count": 10
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 10
+      },
+      {
+        "city": "Jamundi",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 9
+      },
+      {
+        "city": "Piedecuesta",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 9
+      },
+      {
+        "city": "Soacha",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 9
+      },
+      {
+        "city": "53562",
+        "province": null,
+        "country": "Germany",
+        "count": 8
+      },
+      {
+        "city": "Arauca",
+        "province": "Arauca",
+        "country": "Colombia",
+        "count": 8
+      },
+      {
+        "city": "Duitama",
+        "province": "Boyacá",
+        "country": "Colombia",
+        "count": 8
+      },
+      {
+        "city": "Florencia",
+        "province": "Caquetá",
+        "country": "Colombia",
+        "count": 8
+      },
+      {
+        "city": "Pitalito",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 8
+      },
+      {
+        "city": "Villanueva",
+        "province": "La Guajira",
+        "country": "Colombia",
+        "count": 8
+      },
+      {
+        "city": "Cartago",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "Caucasia",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "Chimichagua",
+        "province": "Cesar",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "Codazzi",
+        "province": "Cesar",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "Corozal",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "Fonseca",
+        "province": "La Guajira",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "La Ceja",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "San Gil",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "San Juan del Cesar",
+        "province": "La Guajira",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "Tierralta",
+        "province": "Córdoba",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "Turbaco",
+        "province": "Bolívar",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "Turbo",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 7
+      },
+      {
+        "city": "Abrego",
+        "province": "North Santander",
+        "country": "Colombia",
+        "count": 6
+      },
+      {
+        "city": "Acacias",
+        "province": "Meta",
+        "country": "Colombia",
+        "count": 6
+      },
+      {
+        "city": "Aguachica",
+        "province": "Cesar",
+        "country": "Colombia",
+        "count": 6
+      },
+      {
+        "city": "Chinu",
+        "province": "Córdoba",
+        "country": "Colombia",
+        "count": 6
+      },
+      {
+        "city": "Copacabana",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 6
+      },
+      {
+        "city": "La Mesa",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 6
+      },
+      {
+        "city": "Ciudad de México",
+        "province": null,
+        "country": "Mexico",
+        "count": 6
+      },
+      {
+        "city": "Mompos",
+        "province": "Bolívar",
+        "country": "Colombia",
+        "count": 6
+      },
+      {
+        "city": "Tolu",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 6
+      },
+      {
+        "city": "Yumbo",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 6
+      },
+      {
+        "city": "Andes",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 5
+      },
+      {
+        "city": "Apartado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 5
+      },
+      {
+        "city": "Aracataca",
+        "province": "Magdalena",
+        "country": "Colombia",
+        "count": 5
+      },
+      {
+        "city": "Miami",
+        "province": null,
+        "country": "United States",
+        "count": 5
+      },
+      {
+        "city": "Riosucio",
+        "province": "Caldas",
+        "country": "Colombia",
+        "count": 5
+      },
+      {
+        "city": "Sabanagrande",
+        "province": "Atlántico",
+        "country": "Colombia",
+        "count": 5
+      },
+      {
+        "city": "Sabanalarga",
+        "province": "Atlántico",
+        "country": "Colombia",
+        "count": 5
+      },
+      {
+        "city": "Socorro",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 5
+      },
+      {
+        "city": "Tocancipa",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 5
+      },
+      {
+        "city": "Bolivar",
+        "province": "Cauca",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Buenos Aires",
+        "province": null,
+        "country": "Argentina",
+        "count": 4
+      },
+      {
+        "city": "Chiriguana",
+        "province": "Cesar",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Cienaga",
+        "province": "Magdalena",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Fundacion",
+        "province": "Magdalena",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Garzon",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Giron",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Guaduas",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Guarne",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "La Dorada",
+        "province": "Caldas",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "La Plata",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Libano",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Los Angeles",
+        "province": null,
+        "country": "United States",
+        "count": 4
+      },
+      {
+        "city": "Magangue",
+        "province": "Bolívar",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Malambo",
+        "province": "Atlántico",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Melgar",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Mocoa",
+        "province": "Putumayo",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Nueva York",
+        "province": null,
+        "country": "United States",
+        "count": 4
+      },
+      {
+        "city": "Orlando",
+        "province": null,
+        "country": "United States",
+        "count": 4
+      },
+      {
+        "city": "Puerto Berrio",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Roldanillo",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "San Marcos",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Santa Rosa de Osos",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 4
+      },
+      {
+        "city": "Santiago",
+        "province": null,
+        "country": "Chile",
+        "count": 4
+      },
+      {
+        "city": "79823",
+        "province": null,
+        "country": "Brazil",
+        "count": 3
+      },
+      {
+        "city": "Barbosa",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Cerete",
+        "province": "Córdoba",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Chigorodo",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Garagoa",
+        "province": "Boyacá",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Ipiales",
+        "province": "Narino",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "La Union",
+        "province": "Narino",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Paipa",
+        "province": "Boyacá",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Pamplona",
+        "province": "North Santander",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "San Luis de Since",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "San Martin",
+        "province": "Meta",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Santander de Quilichao",
+        "province": "Cauca",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Sucre",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "The Hammocks",
+        "province": null,
+        "country": "United States",
+        "count": 3
+      },
+      {
+        "city": "Villanueva",
+        "province": "Casanare",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Yarumal",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Yopal",
+        "province": "Casanare",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Zaragoza",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Zarzal",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 3
+      },
+      {
+        "city": "Alcorcon",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Algeciras",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Barbosa",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Chicago",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Davie",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "East Providence",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Fresno",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Honda",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Kissimmee",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Miami Beach",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Montreal",
+        "province": null,
+        "country": "Canada",
+        "count": 2
+      },
+      {
+        "city": "Paz de Ariporo",
+        "province": "Casanare",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Pelaya",
+        "province": "Cesar",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Pembroke Pines",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Puerto Asis",
+        "province": "Putumayo",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Puerto Boyaca",
+        "province": "Boyacá",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Puerto Rico",
+        "province": "Caquetá",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Repelon",
+        "province": "Atlántico",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Sabana de Torres",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Salamina",
+        "province": "Caldas",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "San Jacinto",
+        "province": "Bolívar",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Santa Rosa de Cabal",
+        "province": "Risaralda",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Santo Domingo",
+        "province": null,
+        "country": "Dominican Republic",
+        "count": 2
+      },
+      {
+        "city": "Sao Paulo",
+        "province": null,
+        "country": "Brazil",
+        "count": 2
+      },
+      {
+        "city": "Saravena",
+        "province": "Arauca",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Sidorejo",
+        "province": null,
+        "country": "Indonesia",
+        "count": 2
+      },
+      {
+        "city": "Suli Barat",
+        "province": null,
+        "country": "Indonesia",
+        "count": 2
+      },
+      {
+        "city": "Sydney",
+        "province": null,
+        "country": "Australia",
+        "count": 2
+      },
+      {
+        "city": "Tame",
+        "province": "Arauca",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "Texas's 26th Congressional District 2022 redistricting",
+        "province": null,
+        "country": "United States",
+        "count": 2
+      },
+      {
+        "city": "Toronto",
+        "province": null,
+        "country": "Canada",
+        "count": 2
+      },
+      {
+        "city": "Viterbo",
+        "province": "Caldas",
+        "country": "Colombia",
+        "count": 2
+      },
+      {
+        "city": "33100",
+        "province": null,
+        "country": "France",
+        "count": 1
+      },
+      {
+        "city": "52117",
+        "province": null,
+        "country": "Indonesia",
+        "count": 1
+      },
+      {
+        "city": "5837",
+        "province": null,
+        "country": "Hungary",
+        "count": 1
+      },
+      {
+        "city": "8283",
+        "province": null,
+        "country": "Hungary",
+        "count": 1
+      },
+      {
+        "city": "89286",
+        "province": null,
+        "country": "Brazil",
+        "count": 1
+      },
+      {
+        "city": "Aalborg",
+        "province": null,
+        "country": "Denmark",
+        "count": 1
+      },
+      {
+        "city": "Adelaide",
+        "province": null,
+        "country": "Australia",
+        "count": 1
+      },
+      {
+        "city": "Aguadas",
+        "province": "Caldas",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Aguazul",
+        "province": "Casanare",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Anaheim",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Ankara",
+        "province": null,
+        "country": "Türkiye",
+        "count": 1
+      },
+      {
+        "city": "Anserma",
+        "province": "Caldas",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Antwerp",
+        "province": null,
+        "country": "Belgium",
+        "count": 1
+      },
+      {
+        "city": "Aranda de Duero",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Aventura",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Ayapel",
+        "province": "Córdoba",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Baranoa",
+        "province": "Atlántico",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Bengaluru",
+        "province": null,
+        "country": "India",
+        "count": 1
+      },
+      {
+        "city": "Braselton",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Bridgeport",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Bruchsal",
+        "province": null,
+        "country": "Germany",
+        "count": 1
+      },
+      {
+        "city": "Buena Ventura Lakes",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Buenaventura",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Calgary",
+        "province": null,
+        "country": "Canada",
+        "count": 1
+      },
+      {
+        "city": "Cambridge",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Campoalegre",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Carolina",
+        "province": null,
+        "country": "Puerto Rico",
+        "count": 1
+      },
+      {
+        "city": "Chaparral",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Charlotte",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Chelsea",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Curumani",
+        "province": "Cesar",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Cutler Bay",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Dagua",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Dublín",
+        "province": null,
+        "country": "Ireland",
+        "count": 1
+      },
+      {
+        "city": "East Canton",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "El Cerrito",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "El Vigia",
+        "province": null,
+        "country": "Venezuela",
+        "count": 1
+      },
+      {
+        "city": "Elmont",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Englewood",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Florida",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Flowery Branch",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Getafe",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Girardota",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Goodyear",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Guacari",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Guatemala City",
+        "province": null,
+        "country": "Guatemala",
+        "count": 1
+      },
+      {
+        "city": "Hialeah",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Hutto",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Imola",
+        "province": null,
+        "country": "Italy",
+        "count": 1
+      },
+      {
+        "city": "Jacksonville",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Katowice",
+        "province": null,
+        "country": "Poland",
+        "count": 1
+      },
+      {
+        "city": "Kendall",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Kent",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "La Calera",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "La Victoria",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "La Virginia",
+        "province": "Risaralda",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Lakeland",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Lerida",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Leticia",
+        "province": "Amazonas",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Lleida",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Londres",
+        "province": null,
+        "country": "United Kingdom",
+        "count": 1
+      },
+      {
+        "city": "Loule",
+        "province": null,
+        "country": "Portugal",
+        "count": 1
+      },
+      {
+        "city": "Luxembourg",
+        "province": null,
+        "country": "Luxembourg",
+        "count": 1
+      },
+      {
+        "city": "Malaga",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Malaga",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Manassas Park",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Manaus",
+        "province": null,
+        "country": "Brazil",
+        "count": 1
+      },
+      {
+        "city": "Miami Lakes",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Milán",
+        "province": null,
+        "country": "Italy",
+        "count": 1
+      },
+      {
+        "city": "Monforte de Lemos",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Morrinhos",
+        "province": null,
+        "country": "Brazil",
+        "count": 1
+      },
+      {
+        "city": "Mount Albert",
+        "province": null,
+        "country": "New Zealand",
+        "count": 1
+      },
+      {
+        "city": "Murcia",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Nagoya",
+        "province": null,
+        "country": "Japan",
+        "count": 1
+      },
+      {
+        "city": "Navan",
+        "province": null,
+        "country": "Ireland",
+        "count": 1
+      },
+      {
+        "city": "Ngambur",
+        "province": null,
+        "country": "Indonesia",
+        "count": 1
+      },
+      {
+        "city": "Niteroi",
+        "province": null,
+        "country": "Brazil",
+        "count": 1
+      },
+      {
+        "city": "Norwalk",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Oakland",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Okanagan-Similkameen",
+        "province": null,
+        "country": "Canada",
+        "count": 1
+      },
+      {
+        "city": "Orangetree",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Palm Springs",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Panama City",
+        "province": null,
+        "country": "Panama",
+        "count": 1
+      },
+      {
+        "city": "París",
+        "province": null,
+        "country": "France",
+        "count": 1
+      },
+      {
+        "city": "Passau",
+        "province": null,
+        "country": "Germany",
+        "count": 1
+      },
+      {
+        "city": "Pematangsiantar",
+        "province": null,
+        "country": "Indonesia",
+        "count": 1
+      },
+      {
+        "city": "Pitt Township",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Pivijay",
+        "province": "Magdalena",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Portland",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Pradera",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Puerto Colombia",
+        "province": "Atlántico",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Punta Cana",
+        "province": null,
+        "country": "Dominican Republic",
+        "count": 1
+      },
+      {
+        "city": "Quixeramobim",
+        "province": null,
+        "country": "Brazil",
+        "count": 1
+      },
+      {
+        "city": "Raleigh",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Rambouillet",
+        "province": null,
+        "country": "France",
+        "count": 1
+      },
+      {
+        "city": "Roma",
+        "province": null,
+        "country": "Italy",
+        "count": 1
+      },
+      {
+        "city": "Samaniego",
+        "province": "Narino",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Sampues",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "San Antero",
+        "province": "Córdoba",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "San Bruno",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Diego",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Jose",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "San Juan",
+        "province": null,
+        "country": "Puerto Rico",
+        "count": 1
+      },
+      {
+        "city": "San Juan Nepomuceno",
+        "province": "Bolívar",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "San Pedro",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "San Pedro Sula",
+        "province": null,
+        "country": "Honduras",
+        "count": 1
+      },
+      {
+        "city": "San Pedro de Uraba",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "San Vicente del Caguan",
+        "province": "Caquetá",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Santa Clara",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Saratoga",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Seattle",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Sonson",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "South Huntington",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "St. Charles",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Sunnyvale",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Surprise",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Suwanee",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Tampa",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Tirana",
+        "province": null,
+        "country": "Albania",
+        "count": 1
+      },
+      {
+        "city": "Tuquerres",
+        "province": "Narino",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Urrao",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Valladolid",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Venadillo",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 1
+      },
+      {
+        "city": "Villeurbanne",
+        "province": null,
+        "country": "France",
+        "count": 1
+      },
+      {
+        "city": "Washington",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Wellington",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Weston",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Wharton",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Whistler",
+        "province": null,
+        "country": "Canada",
+        "count": 1
+      },
+      {
+        "city": "Wilkesville Township",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Willemstad",
+        "province": null,
+        "country": "Curaçao",
+        "count": 1
+      },
+      {
+        "city": "Zaragoza",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Bogotá",
+        "province": "Bogotá D.C.",
+        "country": "Colombia",
+        "count": 32
+      }
+    ]
   }
 ]
