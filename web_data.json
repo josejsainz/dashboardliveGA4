@@ -11167,16 +11167,16 @@
     "First_Open_Diff_iOS_30min": 97,
     "First_Open_Diff_Total_30min": 170,
     "First_View_Realtime_Total": 2,
-    "First_Open_Acumulado_Android": 2497,
-    "First_Open_Acumulado_iOS": 4420,
-    "First_Open_Acumulado_Total": 6917,
+    "First_Open_Acumulado_Android": 2990,
+    "First_Open_Acumulado_iOS": 5204,
+    "First_Open_Acumulado_Total": 8194,
     "Device_Category_Mobile": 16,
     "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 35,
+    "Device_Category_Desktop": 44,
     "Device_Category_TV": 0,
     "Device_Category_Other": 0,
     "Browsers": {
-      "Chrome": 32,
+      "Chrome": 41,
       "Firefox": 5,
       "Safari": 4,
       "Opera": 2,
@@ -11184,7 +11184,7 @@
       "Samsung Internet": 1
     },
     "Browser_OS": {
-      "Windows": 16,
+      "Windows": 25,
       "Macintosh": 12,
       "Android": 11,
       "Linux": 7,
@@ -11195,121 +11195,145 @@
         "city": "Bogota",
         "province": "Bogota",
         "country": "Colombia",
-        "count": 2017
+        "count": 2366
       },
       {
         "city": "Medellin",
         "province": "Antioquia",
         "country": "Colombia",
-        "count": 1039
+        "count": 1240
       },
       {
         "city": "Barranquilla",
         "province": "Atlantico",
         "country": "Colombia",
-        "count": 773
+        "count": 905
       },
       {
         "city": "Cali",
         "province": "Valle del Cauca",
         "country": "Colombia",
-        "count": 635
+        "count": 734
       },
       {
         "city": "Arjona",
         "province": "Bolivar",
         "country": "Colombia",
-        "count": 249
+        "count": 284
       },
       {
         "city": "Monteria",
         "province": "Cordoba",
         "country": "Colombia",
-        "count": 149
+        "count": 174
       },
       {
         "city": "Bucaramanga",
         "province": "Santander",
         "country": "Colombia",
-        "count": 143
+        "count": 171
       },
       {
         "city": "Sincelejo",
         "province": "Sucre",
         "country": "Colombia",
-        "count": 97
+        "count": 122
       },
       {
         "city": "Valledupar",
         "province": "Cesar",
         "country": "Colombia",
-        "count": 94
+        "count": 107
       },
       {
         "city": "Cucuta",
         "province": "North Santander",
         "country": "Colombia",
-        "count": 84
+        "count": 102
       },
       {
         "city": "",
         "province": "Magdalena",
         "country": "Colombia",
-        "count": 80
+        "count": 88
       },
       {
         "city": "Villavicencio",
         "province": "Meta",
         "country": "Colombia",
-        "count": 71
-      },
-      {
-        "city": "Manizales",
-        "province": "Caldas",
-        "country": "Colombia",
-        "count": 70
+        "count": 85
       },
       {
         "city": "Envigado",
         "province": "Antioquia",
         "country": "Colombia",
-        "count": 67
-      },
-      {
-        "city": "Ibague",
-        "province": "Tolima",
-        "country": "Colombia",
-        "count": 63
-      },
-      {
-        "city": "Pereira",
-        "province": "Risaralda",
-        "country": "Colombia",
-        "count": 62
-      },
-      {
-        "city": "Chia",
-        "province": "Cundinamarca",
-        "country": "Colombia",
-        "count": 60
+        "count": 83
       },
       {
         "city": "Pasto",
         "province": "Narino",
         "country": "Colombia",
-        "count": 59
+        "count": 77
+      },
+      {
+        "city": "Pereira",
+        "province": "Risaralda",
+        "country": "Colombia",
+        "count": 76
+      },
+      {
+        "city": "Manizales",
+        "province": "Caldas",
+        "country": "Colombia",
+        "count": 75
+      },
+      {
+        "city": "Ibague",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 74
       },
       {
         "city": "Tunja",
         "province": "Boyaca",
         "country": "Colombia",
-        "count": 59
+        "count": 70
+      },
+      {
+        "city": "Chia",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 69
       },
       {
         "city": "Facatativa",
         "province": "Cundinamarca",
         "country": "Colombia",
-        "count": 50
+        "count": 60
+      },
+      {
+        "city": "",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 58
+      },
+      {
+        "city": "Armenia",
+        "province": "Quindio",
+        "country": "Colombia",
+        "count": 55
+      },
+      {
+        "city": "Neiva",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 55
+      },
+      {
+        "city": "Riohacha",
+        "province": "La Guajira",
+        "country": "Colombia",
+        "count": 47
       },
       {
         "city": "(not set)",
@@ -11318,28 +11342,28 @@
         "count": 45
       },
       {
-        "city": "Armenia",
-        "province": "Quindio",
-        "country": "Colombia",
-        "count": 45
-      },
-      {
-        "city": "Riohacha",
-        "province": "La Guajira",
-        "country": "Colombia",
-        "count": 45
-      },
-      {
-        "city": "Neiva",
-        "province": "Huila",
+        "city": "Cienaga de Oro",
+        "province": "Cordoba",
         "country": "Colombia",
         "count": 42
       },
       {
-        "city": "",
-        "province": "Cundinamarca",
+        "city": "Popayan",
+        "province": "Cauca",
         "country": "Colombia",
         "count": 39
+      },
+      {
+        "city": "",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 38
+      },
+      {
+        "city": "Dosquebradas",
+        "province": "Risaralda",
+        "country": "Colombia",
+        "count": 38
       },
       {
         "city": "Boardman",
@@ -11348,50 +11372,74 @@
         "count": 37
       },
       {
-        "city": "Cienaga de Oro",
-        "province": "Cordoba",
-        "country": "Colombia",
-        "count": 32
-      },
-      {
         "city": "Palmira",
         "province": "Valle del Cauca",
         "country": "Colombia",
-        "count": 31
-      },
-      {
-        "city": "Popayan",
-        "province": "Cauca",
-        "country": "Colombia",
-        "count": 31
+        "count": 37
       },
       {
         "city": "Itagui",
         "province": "Antioquia",
         "country": "Colombia",
-        "count": 28
+        "count": 36
+      },
+      {
+        "city": "Tulua",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 34
+      },
+      {
+        "city": "Zipaquira",
+        "province": "Cundinamarca",
+        "country": "Colombia",
+        "count": 32
+      },
+      {
+        "city": "Bello",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 30
       },
       {
         "city": "",
-        "province": "Antioquia",
+        "province": "Boyaca",
         "country": "Colombia",
-        "count": 27
+        "count": 29
       },
       {
-        "city": "Dosquebradas",
-        "province": "Risaralda",
+        "city": "Floridablanca",
+        "province": "Santander",
         "country": "Colombia",
-        "count": 27
+        "count": 29
       },
       {
         "city": "Sogamoso",
         "province": "Boyaca",
         "country": "Colombia",
-        "count": 26
+        "count": 29
       },
       {
-        "city": "Tulua",
+        "city": "Lorica",
+        "province": "Cordoba",
+        "country": "Colombia",
+        "count": 28
+      },
+      {
+        "city": "",
         "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 27
+      },
+      {
+        "city": "Florencia",
+        "province": "Caqueta",
+        "country": "Colombia",
+        "count": 27
+      },
+      {
+        "city": "El Carmen de Bolivar",
+        "province": "Bolivar",
         "country": "Colombia",
         "count": 26
       },
@@ -11402,38 +11450,32 @@
         "count": 25
       },
       {
-        "city": "Bello",
-        "province": "Antioquia",
-        "country": "Colombia",
-        "count": 25
-      },
-      {
-        "city": "Floridablanca",
+        "city": "Barrancabermeja",
         "province": "Santander",
         "country": "Colombia",
         "count": 25
       },
       {
-        "city": "Zipaquira",
-        "province": "Cundinamarca",
+        "city": "Quibdo",
+        "province": "Choco",
         "country": "Colombia",
         "count": 25
       },
       {
-        "city": "",
-        "province": "Boyaca",
+        "city": "Girardot",
+        "province": "Cundinamarca",
         "country": "Colombia",
         "count": 24
       },
       {
-        "city": "El Carmen de Bolivar",
-        "province": "Bolivar",
+        "city": "Soacha",
+        "province": "Cundinamarca",
         "country": "Colombia",
         "count": 24
       },
       {
-        "city": "Florencia",
-        "province": "Caqueta",
+        "city": "Caucasia",
+        "province": "Antioquia",
         "country": "Colombia",
         "count": 23
       },
@@ -11444,8 +11486,14 @@
         "count": 23
       },
       {
-        "city": "Lorica",
-        "province": "Cordoba",
+        "city": "",
+        "province": "Narino",
+        "country": "Colombia",
+        "count": 22
+      },
+      {
+        "city": "Carmen de Viboral",
+        "province": "Antioquia",
         "country": "Colombia",
         "count": 22
       },
@@ -11456,28 +11504,16 @@
         "count": 22
       },
       {
-        "city": "Quibdo",
-        "province": "Choco",
+        "city": "",
+        "province": "Cauca",
         "country": "Colombia",
-        "count": 22
+        "count": 20
       },
       {
         "city": "",
-        "province": "Valle del Cauca",
+        "province": "Cesar",
         "country": "Colombia",
-        "count": 21
-      },
-      {
-        "city": "Barrancabermeja",
-        "province": "Santander",
-        "country": "Colombia",
-        "count": 21
-      },
-      {
-        "city": "Girardot",
-        "province": "Cundinamarca",
-        "country": "Colombia",
-        "count": 21
+        "count": 20
       },
       {
         "city": "(not set)",
@@ -11486,32 +11522,32 @@
         "count": 20
       },
       {
-        "city": "Caucasia",
-        "province": "Antioquia",
+        "city": "Pitalito",
+        "province": "Huila",
         "country": "Colombia",
         "count": 20
       },
       {
-        "city": "Soacha",
+        "city": "Fusagasuga",
         "province": "Cundinamarca",
-        "country": "Colombia",
-        "count": 20
-      },
-      {
-        "city": "Carmen de Viboral",
-        "province": "Antioquia",
         "country": "Colombia",
         "count": 19
       },
       {
-        "city": "",
-        "province": "Cauca",
+        "city": "Piedecuesta",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 19
+      },
+      {
+        "city": "Fundacion",
+        "province": "Magdalena",
         "country": "Colombia",
         "count": 18
       },
       {
-        "city": "",
-        "province": "Cesar",
+        "city": "Jamundi",
+        "province": "Valle del Cauca",
         "country": "Colombia",
         "count": 18
       },
@@ -11522,26 +11558,26 @@
         "count": 18
       },
       {
+        "city": "",
+        "province": "Santander",
+        "country": "Colombia",
+        "count": 17
+      },
+      {
+        "city": "",
+        "province": "Tolima",
+        "country": "Colombia",
+        "count": 17
+      },
+      {
         "city": "(not set)",
         "province": "Cesar",
         "country": "Colombia",
         "count": 17
       },
       {
-        "city": "Fundacion",
-        "province": "Magdalena",
-        "country": "Colombia",
-        "count": 17
-      },
-      {
-        "city": "Fusagasuga",
-        "province": "Cundinamarca",
-        "country": "Colombia",
-        "count": 17
-      },
-      {
-        "city": "Pitalito",
-        "province": "Huila",
+        "city": "El Santuario",
+        "province": "Antioquia",
         "country": "Colombia",
         "count": 17
       },
@@ -11552,14 +11588,14 @@
         "count": 16
       },
       {
-        "city": "El Santuario",
-        "province": "Antioquia",
+        "city": "Corozal",
+        "province": "Sucre",
         "country": "Colombia",
         "count": 16
       },
       {
-        "city": "Piedecuesta",
-        "province": "Santander",
+        "city": "Duitama",
+        "province": "Boyaca",
         "country": "Colombia",
         "count": 16
       },
@@ -11570,14 +11606,62 @@
         "count": 16
       },
       {
-        "city": "Jamundi",
+        "city": "",
+        "province": "North Santander",
+        "country": "Colombia",
+        "count": 15
+      },
+      {
+        "city": "Chinu",
+        "province": "Cordoba",
+        "country": "Colombia",
+        "count": 15
+      },
+      {
+        "city": "Tierralta",
+        "province": "Cordoba",
+        "country": "Colombia",
+        "count": 15
+      },
+      {
+        "city": "",
+        "province": "Bolivar",
+        "country": "Colombia",
+        "count": 14
+      },
+      {
+        "city": "Aguachica",
+        "province": "Cesar",
+        "country": "Colombia",
+        "count": 14
+      },
+      {
+        "city": "Cartago",
+        "province": "Valle del Cauca",
+        "country": "Colombia",
+        "count": 14
+      },
+      {
+        "city": "San Juan del Cesar",
+        "province": "La Guajira",
+        "country": "Colombia",
+        "count": 14
+      },
+      {
+        "city": "Yumbo",
         "province": "Valle del Cauca",
         "country": "Colombia",
         "count": 14
       },
       {
         "city": "",
-        "province": "Santander",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 13
+      },
+      {
+        "city": "Arauca",
+        "province": "Arauca",
         "country": "Colombia",
         "count": 13
       },
@@ -11588,56 +11672,74 @@
         "count": 13
       },
       {
-        "city": "Corozal",
-        "province": "Sucre",
-        "country": "Colombia",
-        "count": 13
-      },
-      {
-        "city": "Tierralta",
-        "province": "Cordoba",
-        "country": "Colombia",
-        "count": 13
-      },
-      {
-        "city": "",
-        "province": "Narino",
-        "country": "Colombia",
-        "count": 12
-      },
-      {
-        "city": "",
-        "province": "North Santander",
-        "country": "Colombia",
-        "count": 12
-      },
-      {
         "city": "Cerete",
         "province": "Cordoba",
         "country": "Colombia",
-        "count": 12
+        "count": 13
       },
       {
-        "city": "Duitama",
-        "province": "Boyaca",
+        "city": "Cienaga",
+        "province": "Magdalena",
         "country": "Colombia",
-        "count": 12
+        "count": 13
       },
       {
-        "city": "San Juan del Cesar",
-        "province": "La Guajira",
+        "city": "Codazzi",
+        "province": "Cesar",
         "country": "Colombia",
-        "count": 12
+        "count": 13
+      },
+      {
+        "city": "La Ceja",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 13
       },
       {
         "city": "Yopal",
         "province": "Casanare",
         "country": "Colombia",
+        "count": 13
+      },
+      {
+        "city": "Abrego",
+        "province": "North Santander",
+        "country": "Colombia",
         "count": 12
       },
       {
-        "city": "Yumbo",
-        "province": "Valle del Cauca",
+        "city": "Apartado",
+        "province": "Antioquia",
+        "country": "Colombia",
+        "count": 12
+      },
+      {
+        "city": "Garzon",
+        "province": "Huila",
+        "country": "Colombia",
+        "count": 12
+      },
+      {
+        "city": "Magangue",
+        "province": "Bolivar",
+        "country": "Colombia",
+        "count": 12
+      },
+      {
+        "city": "Mompos",
+        "province": "Bolivar",
+        "country": "Colombia",
+        "count": 12
+      },
+      {
+        "city": "San Marcos",
+        "province": "Sucre",
+        "country": "Colombia",
+        "count": 12
+      },
+      {
+        "city": "Turbaco",
+        "province": "Bolivar",
         "country": "Colombia",
         "count": 12
       },
@@ -11649,50 +11751,38 @@
       },
       {
         "city": "",
-        "province": "Bolivar",
+        "province": "Caldas",
         "country": "Colombia",
         "count": 11
       },
       {
-        "city": "",
-        "province": "Tolima",
+        "city": "Baranoa",
+        "province": "Atlantico",
         "country": "Colombia",
         "count": 11
       },
       {
-        "city": "Arauca",
-        "province": "Arauca",
+        "city": "Fonseca",
+        "province": "La Guajira",
         "country": "Colombia",
         "count": 11
       },
       {
-        "city": "Cartago",
-        "province": "Valle del Cauca",
+        "city": "La Dorada",
+        "province": "Caldas",
         "country": "Colombia",
         "count": 11
       },
       {
-        "city": "Cienaga",
-        "province": "Magdalena",
+        "city": "Malambo",
+        "province": "Atlantico",
         "country": "Colombia",
         "count": 11
       },
       {
-        "city": "Codazzi",
-        "province": "Cesar",
-        "country": "Colombia",
-        "count": 11
-      },
-      {
-        "city": "La Ceja",
-        "province": "Antioquia",
-        "country": "Colombia",
-        "count": 11
-      },
-      {
-        "city": "Magangue",
-        "province": "Bolivar",
-        "country": "Colombia",
+        "city": "Miami",
+        "province": "Florida",
+        "country": "United States",
         "count": 11
       },
       {
@@ -11700,96 +11790,6 @@
         "province": "Caldas",
         "country": "Colombia",
         "count": 10
-      },
-      {
-        "city": "(not set)",
-        "province": "Narino",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "(not set)",
-        "province": "North Santander",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "(not set)",
-        "province": "Valle del Cauca",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "Aguachica",
-        "province": "Cesar",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "Apartado",
-        "province": "Antioquia",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "Baranoa",
-        "province": "Atlantico",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "Chinu",
-        "province": "Cordoba",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "Fonseca",
-        "province": "La Guajira",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "Garzon",
-        "province": "Huila",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "Malambo",
-        "province": "Atlantico",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "Mompos",
-        "province": "Bolivar",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "San Marcos",
-        "province": "Sucre",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "Turbaco",
-        "province": "Bolivar",
-        "country": "Colombia",
-        "count": 10
-      },
-      {
-        "city": "",
-        "province": "Sucre",
-        "country": "Colombia",
-        "count": 9
-      },
-      {
-        "city": "(not set)",
-        "province": "Quindio",
-        "country": "Colombia",
-        "count": 9
       }
     ],
     "Geo_Web": [
@@ -11797,13 +11797,13 @@
         "city": "Bogota",
         "province": "Bogota",
         "country": "Colombia",
-        "count": 39
+        "count": 40
       },
       {
         "city": "Madrid",
         "province": "Madrid",
         "country": "Spain",
-        "count": 2
+        "count": 10
       },
       {
         "city": "",
