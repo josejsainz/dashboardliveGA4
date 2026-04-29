@@ -2194,5 +2194,188 @@
         "count": 1
       }
     ]
+  },
+  {
+    "Timestamp": "2026-04-29 22:00:09",
+    "Realtime_App": 18,
+    "Realtime_Web": 7,
+    "First_Open_Diff_Android_30min": 4,
+    "First_Open_Diff_iOS_30min": 4,
+    "First_Open_Diff_Total_30min": 8,
+    "First_View_Realtime_Total": 2,
+    "First_Open_Acumulado_Android": 84,
+    "First_Open_Acumulado_iOS": 71,
+    "First_Open_Acumulado_Total": 155,
+    "Device_Category_Mobile": 15,
+    "Device_Category_Tablet": 9,
+    "Device_Category_Desktop": 102,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 106,
+      "Safari": 19,
+      "Firefox": 2
+    },
+    "Browser_OS": {
+      "Windows": 74,
+      "Macintosh": 25,
+      "iOS": 17,
+      "Android": 4,
+      "Linux": 4
+    },
+    "Geo_App": [
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 63
+      },
+      {
+        "city": "Sevilla",
+        "province": "Sevilla",
+        "country": "Spain",
+        "count": 47
+      },
+      {
+        "city": "Boardman",
+        "province": null,
+        "country": "United States",
+        "count": 39
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 25
+      },
+      {
+        "city": "Alcobendas",
+        "province": null,
+        "country": "Spain",
+        "count": 14
+      },
+      {
+        "city": "Fuenlabrada",
+        "province": null,
+        "country": "Spain",
+        "count": 8
+      },
+      {
+        "city": "Albacete",
+        "province": null,
+        "country": "Spain",
+        "count": 7
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 7
+      },
+      {
+        "city": "Toledo",
+        "province": null,
+        "country": "Spain",
+        "count": 6
+      },
+      {
+        "city": "Dos Hermanas",
+        "province": "Dos Hermanas",
+        "country": "Spain",
+        "count": 3
+      },
+      {
+        "city": "Majadahonda",
+        "province": null,
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "San Francisco",
+        "province": null,
+        "country": "United States",
+        "count": 1
+      },
+      {
+        "city": "Valladolid",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 91
+      },
+      {
+        "city": "Collado Villalba",
+        "province": null,
+        "country": "Spain",
+        "count": 22
+      },
+      {
+        "city": "Sevilla",
+        "province": "Sevilla",
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "Alcobendas",
+        "province": null,
+        "country": "Spain",
+        "count": 6
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 4
+      },
+      {
+        "city": "A Coruna",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Bilbao",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Castelldefels",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Murcia",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Toledo",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Valencia",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Valladolid",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
   }
 ]
