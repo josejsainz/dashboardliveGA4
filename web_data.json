@@ -2131,22 +2131,22 @@
     "First_Open_Diff_iOS_30min": 0,
     "First_Open_Diff_Total_30min": 0,
     "First_View_Realtime_Total": 8,
-    "First_Open_Acumulado_Android": 351,
-    "First_Open_Acumulado_iOS": 350,
-    "First_Open_Acumulado_Total": 701,
+    "First_Open_Acumulado_Android": 374,
+    "First_Open_Acumulado_iOS": 372,
+    "First_Open_Acumulado_Total": 746,
     "Device_Category_Mobile": 2,
     "Device_Category_Tablet": 0,
-    "Device_Category_Desktop": 12,
+    "Device_Category_Desktop": 14,
     "Device_Category_TV": 0,
     "Device_Category_Other": 0,
     "Browsers": {
-      "Chrome": 9,
+      "Chrome": 11,
       "Safari": 3,
       "Firefox": 2
     },
     "Browser_OS": {
+      "Macintosh": 7,
       "Windows": 7,
-      "Macintosh": 5,
       "iOS": 2,
       "Android": 1
     },
@@ -2155,19 +2155,19 @@
         "city": "Madrid",
         "province": null,
         "country": "Spain",
-        "count": 143
+        "count": 148
       },
       {
         "city": "Sevilla",
         "province": "Sevilla",
         "country": "Spain",
-        "count": 119
+        "count": 129
       },
       {
         "city": "Málaga",
         "province": "Málaga",
         "country": "Spain",
-        "count": 72
+        "count": 77
       },
       {
         "city": "Barcelona",
@@ -2179,25 +2179,25 @@
         "city": "Granada",
         "province": "Granada",
         "country": "Spain",
-        "count": 33
+        "count": 35
       },
       {
         "city": "Valencia",
         "province": null,
         "country": "Spain",
-        "count": 26
+        "count": 29
       },
       {
         "city": "Jerez de la Frontera",
         "province": "Jerez de la Frontera",
         "country": "Spain",
-        "count": 25
+        "count": 28
       },
       {
         "city": "Córdoba",
         "province": "Córdoba",
         "country": "Spain",
-        "count": 15
+        "count": 16
       },
       {
         "city": "Palma",
@@ -2212,16 +2212,28 @@
         "count": 10
       },
       {
-        "city": "Zaragoza",
-        "province": null,
+        "city": "Almería",
+        "province": "Almería",
         "country": "Spain",
         "count": 8
       },
       {
-        "city": "Almería",
-        "province": "Almería",
+        "city": "Fuengirola",
+        "province": "Fuengirola",
         "country": "Spain",
-        "count": 7
+        "count": 8
+      },
+      {
+        "city": "Motril",
+        "province": "Motril",
+        "country": "Spain",
+        "count": 8
+      },
+      {
+        "city": "Zaragoza",
+        "province": null,
+        "country": "Spain",
+        "count": 8
       },
       {
         "city": "Las Palmas de Gran Canaria",
@@ -2230,20 +2242,32 @@
         "count": 7
       },
       {
-        "city": "Fuengirola",
-        "province": "Fuengirola",
-        "country": "Spain",
-        "count": 6
-      },
-      {
         "city": "Mairena del Aljarafe",
         "province": "Mairena del Aljarafe",
         "country": "Spain",
+        "count": 7
+      },
+      {
+        "city": "Chiclana de la Frontera",
+        "province": "Chiclana de la Frontera",
+        "country": "Spain",
         "count": 6
       },
       {
-        "city": "Motril",
-        "province": "Motril",
+        "city": "El Puerto de Santa María",
+        "province": "El Puerto de Santa María",
+        "country": "Spain",
+        "count": 6
+      },
+      {
+        "city": "Marbella",
+        "province": "Marbella",
+        "country": "Spain",
+        "count": 6
+      },
+      {
+        "city": "Salamanca",
+        "province": null,
         "country": "Spain",
         "count": 6
       },
@@ -2272,28 +2296,16 @@
         "count": 6
       },
       {
-        "city": "Chiclana de la Frontera",
-        "province": "Chiclana de la Frontera",
+        "city": "Huelva",
+        "province": "Huelva",
         "country": "Spain",
         "count": 5
       },
       {
-        "city": "El Puerto de Santa María",
-        "province": "El Puerto de Santa María",
-        "country": "Spain",
-        "count": 5
-      },
-      {
-        "city": "Marbella",
-        "province": "Marbella",
-        "country": "Spain",
-        "count": 5
-      },
-      {
-        "city": "Salamanca",
+        "city": "A Coruna",
         "province": null,
         "country": "Spain",
-        "count": 5
+        "count": 4
       },
       {
         "city": "Antequera",
@@ -2308,8 +2320,8 @@
         "count": 4
       },
       {
-        "city": "Huelva",
-        "province": "Huelva",
+        "city": "Dos Hermanas",
+        "province": "Dos Hermanas",
         "country": "Spain",
         "count": 4
       },
@@ -2320,7 +2332,7 @@
         "count": 4
       },
       {
-        "city": "A Coruna",
+        "city": "Alcala de Henares",
         "province": null,
         "country": "Spain",
         "count": 3
@@ -2328,6 +2340,12 @@
       {
         "city": "Algeciras",
         "province": "Algeciras",
+        "country": "Spain",
+        "count": 3
+      },
+      {
+        "city": "Alhaurin de la Torre",
+        "province": "Alhaurin de la Torre",
         "country": "Spain",
         "count": 3
       },
@@ -2344,14 +2362,14 @@
         "count": 3
       },
       {
-        "city": "Colmenar Viejo",
+        "city": "Cartagena",
         "province": null,
         "country": "Spain",
         "count": 3
       },
       {
-        "city": "Dos Hermanas",
-        "province": "Dos Hermanas",
+        "city": "Colmenar Viejo",
+        "province": null,
         "country": "Spain",
         "count": 3
       },
@@ -2374,6 +2392,12 @@
         "count": 3
       },
       {
+        "city": "Nerja",
+        "province": "Nerja",
+        "country": "Spain",
+        "count": 3
+      },
+      {
         "city": "Ronda",
         "province": "Ronda",
         "country": "Spain",
@@ -2392,8 +2416,8 @@
         "count": 2
       },
       {
-        "city": "Alcala de Henares",
-        "province": null,
+        "city": "Alcalá de Guadaíra",
+        "province": "Alcalá de Guadaíra",
         "country": "Spain",
         "count": 2
       },
@@ -2410,8 +2434,8 @@
         "count": 2
       },
       {
-        "city": "Alhaurin de la Torre",
-        "province": "Alhaurin de la Torre",
+        "city": "Bailen",
+        "province": "Bailen",
         "country": "Spain",
         "count": 2
       },
@@ -2422,8 +2446,8 @@
         "count": 2
       },
       {
-        "city": "Cartagena",
-        "province": null,
+        "city": "Carmona",
+        "province": "Carmona",
         "country": "Spain",
         "count": 2
       },
@@ -2506,13 +2530,13 @@
         "count": 2
       },
       {
-        "city": "Nerja",
-        "province": "Nerja",
+        "city": "Oviedo",
+        "province": null,
         "country": "Spain",
         "count": 2
       },
       {
-        "city": "Oviedo",
+        "city": "Ponferrada",
         "province": null,
         "country": "Spain",
         "count": 2
@@ -2560,13 +2584,13 @@
         "count": 2
       },
       {
-        "city": "Alcalá de Guadaíra",
-        "province": "Alcalá de Guadaíra",
+        "city": "Alcantarilla",
+        "province": null,
         "country": "Spain",
         "count": 1
       },
       {
-        "city": "Alcantarilla",
+        "city": "Alcazar de San Juan",
         "province": null,
         "country": "Spain",
         "count": 1
@@ -2596,8 +2620,8 @@
         "count": 1
       },
       {
-        "city": "Bailen",
-        "province": "Bailen",
+        "city": "Badalona",
+        "province": null,
         "country": "Spain",
         "count": 1
       },
@@ -2610,12 +2634,6 @@
       {
         "city": "Calp",
         "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Carmona",
-        "province": "Carmona",
         "country": "Spain",
         "count": 1
       },
@@ -2642,24 +2660,6 @@
         "province": null,
         "country": "Spain",
         "count": 1
-      },
-      {
-        "city": "Gava",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Genoa",
-        "province": null,
-        "country": "Italy",
-        "count": 1
-      },
-      {
-        "city": "Girona",
-        "province": null,
-        "country": "Spain",
-        "count": 1
       }
     ],
     "Geo_Web": [
@@ -2667,13 +2667,13 @@
         "city": "Sevilla",
         "province": "Sevilla",
         "country": "Spain",
-        "count": 6
+        "count": 7
       },
       {
         "city": "Madrid",
         "province": null,
         "country": "Spain",
-        "count": 5
+        "count": 6
       },
       {
         "city": "Castelldefels",
