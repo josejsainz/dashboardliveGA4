@@ -2131,9 +2131,9 @@
     "First_Open_Diff_iOS_30min": 0,
     "First_Open_Diff_Total_30min": 0,
     "First_View_Realtime_Total": 8,
-    "First_Open_Acumulado_Android": 374,
-    "First_Open_Acumulado_iOS": 372,
-    "First_Open_Acumulado_Total": 746,
+    "First_Open_Acumulado_Android": 380,
+    "First_Open_Acumulado_iOS": 378,
+    "First_Open_Acumulado_Total": 758,
     "Device_Category_Mobile": 2,
     "Device_Category_Tablet": 0,
     "Device_Category_Desktop": 14,
@@ -2161,7 +2161,7 @@
         "city": "Sevilla",
         "province": "Sevilla",
         "country": "Spain",
-        "count": 129
+        "count": 131
       },
       {
         "city": "Málaga",
@@ -2185,7 +2185,7 @@
         "city": "Valencia",
         "province": null,
         "country": "Spain",
-        "count": 29
+        "count": 30
       },
       {
         "city": "Jerez de la Frontera",
@@ -2215,7 +2215,7 @@
         "city": "Almería",
         "province": "Almería",
         "country": "Spain",
-        "count": 8
+        "count": 9
       },
       {
         "city": "Fuengirola",
@@ -2248,6 +2248,12 @@
         "count": 7
       },
       {
+        "city": "Marbella",
+        "province": "Marbella",
+        "country": "Spain",
+        "count": 7
+      },
+      {
         "city": "Chiclana de la Frontera",
         "province": "Chiclana de la Frontera",
         "country": "Spain",
@@ -2256,12 +2262,6 @@
       {
         "city": "El Puerto de Santa María",
         "province": "El Puerto de Santa María",
-        "country": "Spain",
-        "count": 6
-      },
-      {
-        "city": "Marbella",
-        "province": "Marbella",
         "country": "Spain",
         "count": 6
       },
@@ -2548,6 +2548,18 @@
         "count": 2
       },
       {
+        "city": "Rota",
+        "province": "Rota",
+        "country": "Spain",
+        "count": 2
+      },
+      {
+        "city": "Sanlucar de Barrameda",
+        "province": "Sanlucar de Barrameda",
+        "country": "Spain",
+        "count": 2
+      },
+      {
         "city": "Santa Cruz de Tenerife",
         "province": null,
         "country": "Spain",
@@ -2645,18 +2657,6 @@
       },
       {
         "city": "Colmenarejo",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Esplugues de Llobregat",
-        "province": null,
-        "country": "Spain",
-        "count": 1
-      },
-      {
-        "city": "Galapagar",
         "province": null,
         "country": "Spain",
         "count": 1
