@@ -1,1 +1,568 @@
-[]
+[
+  {
+    "Timestamp": "2026-05-17 07:00:00",
+    "Realtime_App": 0,
+    "Realtime_Web": 0,
+    "First_Open_Diff_Android_30min": 0,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 0,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 2105,
+    "First_Open_Acumulado_iOS": 1919,
+    "First_Open_Acumulado_Total": 4024,
+    "Device_Category_Mobile": 2,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 16,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 12,
+      "Firefox": 3,
+      "Safari": 3
+    },
+    "Browser_OS": {
+      "Macintosh": 9,
+      "Windows": 7,
+      "iOS": 2,
+      "Android": 1
+    },
+    "Geo_App": [
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 639
+      },
+      {
+        "city": "Sevilla",
+        "province": "Sevilla",
+        "country": "Spain",
+        "count": 610
+      },
+      {
+        "city": "Málaga",
+        "province": "Málaga",
+        "country": "Spain",
+        "count": 289
+      },
+      {
+        "city": "Granada",
+        "province": "Granada",
+        "country": "Spain",
+        "count": 166
+      },
+      {
+        "city": "Barcelona",
+        "province": null,
+        "country": "Spain",
+        "count": 163
+      },
+      {
+        "city": "Valencia",
+        "province": null,
+        "country": "Spain",
+        "count": 139
+      },
+      {
+        "city": "Córdoba",
+        "province": "Córdoba",
+        "country": "Spain",
+        "count": 110
+      },
+      {
+        "city": "Jerez de la Frontera",
+        "province": "Jerez de la Frontera",
+        "country": "Spain",
+        "count": 110
+      },
+      {
+        "city": "Jaén",
+        "province": "Jaén",
+        "country": "Spain",
+        "count": 52
+      },
+      {
+        "city": "Palma",
+        "province": null,
+        "country": "Spain",
+        "count": 50
+      },
+      {
+        "city": "Vigo",
+        "province": null,
+        "country": "Spain",
+        "count": 48
+      },
+      {
+        "city": "Almería",
+        "province": "Almería",
+        "country": "Spain",
+        "count": 47
+      },
+      {
+        "city": "Huelva",
+        "province": "Huelva",
+        "country": "Spain",
+        "count": 46
+      },
+      {
+        "city": "Las Palmas de Gran Canaria",
+        "province": null,
+        "country": "Spain",
+        "count": 45
+      },
+      {
+        "city": "Valladolid",
+        "province": null,
+        "country": "Spain",
+        "count": 45
+      },
+      {
+        "city": "Marbella",
+        "province": "Marbella",
+        "country": "Spain",
+        "count": 43
+      },
+      {
+        "city": "Bilbao",
+        "province": null,
+        "country": "Spain",
+        "count": 41
+      },
+      {
+        "city": "Cádiz",
+        "province": "Cádiz",
+        "country": "Spain",
+        "count": 34
+      },
+      {
+        "city": "El Puerto de Santa María",
+        "province": "El Puerto de Santa María",
+        "country": "Spain",
+        "count": 34
+      },
+      {
+        "city": "Zaragoza",
+        "province": null,
+        "country": "Spain",
+        "count": 32
+      },
+      {
+        "city": "Chiclana de la Frontera",
+        "province": "Chiclana de la Frontera",
+        "country": "Spain",
+        "count": 31
+      },
+      {
+        "city": "Mairena del Aljarafe",
+        "province": "Mairena del Aljarafe",
+        "country": "Spain",
+        "count": 28
+      },
+      {
+        "city": "Alicante",
+        "province": null,
+        "country": "Spain",
+        "count": 27
+      },
+      {
+        "city": "Dos Hermanas",
+        "province": "Dos Hermanas",
+        "country": "Spain",
+        "count": 27
+      },
+      {
+        "city": "Fuengirola",
+        "province": "Fuengirola",
+        "country": "Spain",
+        "count": 26
+      },
+      {
+        "city": "Motril",
+        "province": "Motril",
+        "country": "Spain",
+        "count": 25
+      },
+      {
+        "city": "Algeciras",
+        "province": "Algeciras",
+        "country": "Spain",
+        "count": 24
+      },
+      {
+        "city": "A Coruna",
+        "province": null,
+        "country": "Spain",
+        "count": 23
+      },
+      {
+        "city": "Linares",
+        "province": "Linares",
+        "country": "Spain",
+        "count": 18
+      },
+      {
+        "city": "Santiago de Compostela",
+        "province": null,
+        "country": "Spain",
+        "count": 18
+      },
+      {
+        "city": "Roquetas de Mar",
+        "province": "Roquetas de Mar",
+        "country": "Spain",
+        "count": 17
+      },
+      {
+        "city": "San Fernando",
+        "province": "San Fernando",
+        "country": "Spain",
+        "count": 17
+      },
+      {
+        "city": "Torremolinos",
+        "province": "Torremolinos",
+        "country": "Spain",
+        "count": 17
+      },
+      {
+        "city": "Úbeda",
+        "province": "Úbeda",
+        "country": "Spain",
+        "count": 16
+      },
+      {
+        "city": "Alcala de Henares",
+        "province": null,
+        "country": "Spain",
+        "count": 15
+      },
+      {
+        "city": "Leon",
+        "province": null,
+        "country": "Spain",
+        "count": 15
+      },
+      {
+        "city": "Palomares del Rio",
+        "province": "Palomares del Rio",
+        "country": "Spain",
+        "count": 15
+      },
+      {
+        "city": "Murcia",
+        "province": null,
+        "country": "Spain",
+        "count": 14
+      },
+      {
+        "city": "Salamanca",
+        "province": null,
+        "country": "Spain",
+        "count": 14
+      },
+      {
+        "city": "Utrera",
+        "province": "Utrera",
+        "country": "Spain",
+        "count": 14
+      },
+      {
+        "city": "Vélez-Málaga",
+        "province": "Vélez-Málaga",
+        "country": "Spain",
+        "count": 14
+      },
+      {
+        "city": "Alcalá de Guadaíra",
+        "province": "Alcalá de Guadaíra",
+        "country": "Spain",
+        "count": 13
+      },
+      {
+        "city": "Rota",
+        "province": "Rota",
+        "country": "Spain",
+        "count": 13
+      },
+      {
+        "city": "Sanlucar de Barrameda",
+        "province": "Sanlucar de Barrameda",
+        "country": "Spain",
+        "count": 13
+      },
+      {
+        "city": "Alcobendas",
+        "province": null,
+        "country": "Spain",
+        "count": 12
+      },
+      {
+        "city": "Donostia / San Sebastian",
+        "province": null,
+        "country": "Spain",
+        "count": 12
+      },
+      {
+        "city": "La Línea de la Concepción",
+        "province": "La Línea de la Concepción",
+        "country": "Spain",
+        "count": 12
+      },
+      {
+        "city": "Logrono",
+        "province": null,
+        "country": "Spain",
+        "count": 12
+      },
+      {
+        "city": "Ronda",
+        "province": "Ronda",
+        "country": "Spain",
+        "count": 12
+      },
+      {
+        "city": "Vitoria-Gasteiz",
+        "province": null,
+        "country": "Spain",
+        "count": 12
+      },
+      {
+        "city": "Alcorcon",
+        "province": null,
+        "country": "Spain",
+        "count": 11
+      },
+      {
+        "city": "Alhaurin de la Torre",
+        "province": "Alhaurin de la Torre",
+        "country": "Spain",
+        "count": 11
+      },
+      {
+        "city": "Andujar",
+        "province": "Andujar",
+        "country": "Spain",
+        "count": 11
+      },
+      {
+        "city": "Antequera",
+        "province": "Antequera",
+        "country": "Spain",
+        "count": 11
+      },
+      {
+        "city": "Santander",
+        "province": null,
+        "country": "Spain",
+        "count": 11
+      },
+      {
+        "city": "Albacete",
+        "province": null,
+        "country": "Spain",
+        "count": 10
+      },
+      {
+        "city": "Benalmádena",
+        "province": "Benalmádena",
+        "country": "Spain",
+        "count": 10
+      },
+      {
+        "city": "Bormujos",
+        "province": "Bormujos",
+        "country": "Spain",
+        "count": 10
+      },
+      {
+        "city": "Cartagena",
+        "province": null,
+        "country": "Spain",
+        "count": 10
+      },
+      {
+        "city": "Las Rozas de Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 10
+      },
+      {
+        "city": "Montequinto",
+        "province": "Montequinto",
+        "country": "Spain",
+        "count": 10
+      },
+      {
+        "city": "Pamplona",
+        "province": null,
+        "country": "Spain",
+        "count": 10
+      },
+      {
+        "city": "Tomares",
+        "province": "Tomares",
+        "country": "Spain",
+        "count": 10
+      },
+      {
+        "city": "Caceres‎",
+        "province": null,
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "Colmenar Viejo",
+        "province": null,
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "El Ejido",
+        "province": "El Ejido",
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "Gijon",
+        "province": null,
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "Los Palacios y Villafranca",
+        "province": "Los Palacios y Villafranca",
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "Nerja",
+        "province": "Nerja",
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "Punta Umbria",
+        "province": "Punta Umbria",
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "Sabadell",
+        "province": null,
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "San Juan de Aznalfarache",
+        "province": "San Juan de Aznalfarache",
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "Aviles",
+        "province": null,
+        "country": "Spain",
+        "count": 8
+      },
+      {
+        "city": "Getafe",
+        "province": null,
+        "country": "Spain",
+        "count": 8
+      },
+      {
+        "city": "Puente Genil",
+        "province": "Puente Genil",
+        "country": "Spain",
+        "count": 8
+      },
+      {
+        "city": "Santa Cruz de Tenerife",
+        "province": null,
+        "country": "Spain",
+        "count": 8
+      },
+      {
+        "city": "Torre del Mar",
+        "province": "Torre del Mar",
+        "country": "Spain",
+        "count": 8
+      },
+      {
+        "city": "Badalona",
+        "province": null,
+        "country": "Spain",
+        "count": 7
+      },
+      {
+        "city": "Castello de la Plana",
+        "province": null,
+        "country": "Spain",
+        "count": 7
+      },
+      {
+        "city": "El Viso del Alcor",
+        "province": "El Viso del Alcor",
+        "country": "Spain",
+        "count": 7
+      },
+      {
+        "city": "La Canyada",
+        "province": null,
+        "country": "Spain",
+        "count": 7
+      },
+      {
+        "city": "Lucena",
+        "province": "Lucena",
+        "country": "Spain",
+        "count": 7
+      }
+    ],
+    "Geo_Web": [
+      {
+        "city": "Sevilla",
+        "province": "Sevilla",
+        "country": "Spain",
+        "count": 9
+      },
+      {
+        "city": "Madrid",
+        "province": null,
+        "country": "Spain",
+        "count": 6
+      },
+      {
+        "city": "Castelldefels",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Málaga",
+        "province": "Málaga",
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Murcia",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Valencia",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      },
+      {
+        "city": "Zaragoza",
+        "province": null,
+        "country": "Spain",
+        "count": 1
+      }
+    ]
+  }
+]
