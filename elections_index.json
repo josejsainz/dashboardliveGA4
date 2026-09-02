@@ -1,0 +1,21 @@
+{
+  "active_elections": [
+    {
+      "id": "01",
+      "nombre": "Andalucía 2026"
+    },
+    {
+      "id": "07",
+      "nombre": "Castilla y León 2026"
+    },
+    {
+      "id": "02",
+      "nombre": "Aragón 2026"
+    },
+    {
+      "id": "11",
+      "nombre": "Extremadura 2025"
+    }
+  ],
+  "last_updated": "2026-09-02T09:35:40Z"
+}
