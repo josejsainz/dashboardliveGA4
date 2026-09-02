@@ -2,20 +2,40 @@
   "active_elections": [
     {
       "id": "01",
-      "nombre": "Andalucía 2026"
+      "nombre": "Andalucía 2026",
+      "titulo_dashboard": "Dashboard difusión Andalucía 2026",
+      "icono": "andalucia26.jpeg",
+      "color_primario": "#148442",
+      "color_secundario": "#E7F7E9",
+      "color_fondo": "#FBFEFB"
     },
     {
       "id": "07",
-      "nombre": "Castilla y León 2026"
+      "nombre": "Castilla y León 2026",
+      "titulo_dashboard": "Dashboard difusión CyL 2026",
+      "icono": "cyl26.jpeg",
+      "color_primario": "#4A92BD",
+      "color_secundario": "#97BBD0",
+      "color_fondo": "#F4FAFD"
     },
     {
       "id": "02",
-      "nombre": "Aragón 2026"
+      "nombre": "Aragón 2026",
+      "titulo_dashboard": "Dashboard difusión Aragón 2026",
+      "icono": "aragon26.jpeg",
+      "color_primario": "#CA0115",
+      "color_secundario": "#F2B800",
+      "color_fondo": "#FFFAEA"
     },
     {
       "id": "11",
-      "nombre": "Extremadura 2025"
+      "nombre": "Extremadura 2025",
+      "titulo_dashboard": "Dashboard difusión Extremadura 2025",
+      "icono": "extremadura25.jpeg",
+      "color_primario": "#1D873E",
+      "color_secundario": "#393F4C",
+      "color_fondo": "#F4FBF5"
     }
   ],
-  "last_updated": "2026-09-02T14:27:43Z"
+  "last_updated": "2026-09-02T14:29:22Z"
 }
