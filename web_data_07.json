@@ -255,5 +255,45 @@
       "Linux": 983,
       "Chrome OS": 65
     }
+  },
+  {
+    "Timestamp": "2026-09-02 10:28:13",
+    "Realtime_App": 1,
+    "Realtime_Web": 0,
+    "First_Open_Diff_Android_30min": 0,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 0,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 8638,
+    "First_Open_Acumulado_iOS": 8887,
+    "First_Open_Acumulado_Total": 17525,
+    "Device_Category_Mobile": 35380,
+    "Device_Category_Tablet": 1448,
+    "Device_Category_Desktop": 15266,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 34568,
+      "Safari": 10431,
+      "Edge": 1867,
+      "Firefox": 1805,
+      "Samsung Internet": 1616,
+      "Android Webview": 644,
+      "Opera": 481,
+      "Safari (in-app)": 319,
+      "Mozilla Compatible Agent": 15,
+      "YaBrowser": 3,
+      "Amazon Silk": 2,
+      "Meta Quest Browser": 1,
+      "Mozilla": 1
+    },
+    "Browser_OS": {
+      "Android": 24782,
+      "iOS": 11898,
+      "Windows": 11313,
+      "Macintosh": 2805,
+      "Linux": 983,
+      "Chrome OS": 65
+    }
   }
 ]
