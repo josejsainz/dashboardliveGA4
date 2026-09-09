@@ -2,7 +2,7 @@
   "active_elections": [
     {
       "id": "01",
-      "nombre": "Municipales 202",
+      "nombre": "Municipales 202l7",
       "titulo_dashboard": "Dashboard difusión Municipales 2027",
       "icono": "andalucia26.jpeg",
       "color_primario": "#148442",
@@ -35,24 +35,6 @@
       "color_primario": "#CA0115",
       "color_secundario": "#F2B800",
       "color_fondo": "#FFFAEA"
-    },
-    {
-      "id": "7",
-      "nombre": "Arán 2027",
-      "titulo_dashboard": "Dashboard difusión Valle de Arán 2027",
-      "icono": "extremadura25.jpeg",
-      "color_primario": "#1D873E",
-      "color_secundario": "#393F4C",
-      "color_fondo": "#F4FBF5"
-    },
-    {
-      "id": "7",
-      "nombre": "Arán 2027",
-      "titulo_dashboard": "Dashboard difusión Valle de Arán 2027",
-      "icono": "extremadura25.jpeg",
-      "color_primario": "#1D873E",
-      "color_secundario": "#393F4C",
-      "color_fondo": "#F4FBF5"
     },
     {
       "id": "7",
@@ -127,5 +109,5 @@
       "color_fondo": "#F4FBF5"
     }
   ],
-  "last_updated": "2026-09-09T09:36:33Z"
+  "last_updated": "2026-09-09T09:38:13Z"
 }
