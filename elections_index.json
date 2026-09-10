@@ -1,79 +1,79 @@
 {
   "active_elections": [
     {
-      "id": "01",
+      "id": "99",
       "nombre": "Municipales 2027",
       "titulo_dashboard": "Dashboard difusión Municipales 2027",
       "icono": "andalucia26.jpeg",
-      "color_primario": "#148442",
-      "color_secundario": "#E7F7E9",
-      "color_fondo": "#FBFEFB"
+      "color_primario": "#F1F3F9",
+      "color_secundario": "#E1E9FF",
+      "color_fondo": "#0099FF"
     },
     {
-      "id": "03",
+      "id": "05",
       "nombre": "Canarias 2027",
       "titulo_dashboard": "Dashboard difusión Islas Canarias 2027",
       "icono": "andalucia26.jpeg",
-      "color_primario": "#148442",
-      "color_secundario": "#E7F7E9",
-      "color_fondo": "#FBFEFB"
+      "color_primario": "#FFB300",
+      "color_secundario": "#0C2C84",
+      "color_fondo": "#FFFFFF"
     },
     {
       "id": "04",
       "nombre": "Cantabria 2027",
       "titulo_dashboard": "Dashboard difusión Cantabria 2027",
       "icono": "cyl26.jpeg",
-      "color_primario": "#4A92BD",
-      "color_secundario": "#97BBD0",
-      "color_fondo": "#F4FAFD"
+      "color_primario": "#000000",
+      "color_secundario": "#E61C29",
+      "color_fondo": "#FFFFFF"
     },
     {
-      "id": "05",
+      "id": "07",
       "nombre": "CLM 2027",
       "titulo_dashboard": "Dashboard difusión CLM 2027",
       "icono": "aragon26.jpeg",
-      "color_primario": "#CA0115",
-      "color_secundario": "#F2B800",
-      "color_fondo": "#FFFAEA"
+      "color_primario": "#002855",
+      "color_secundario": "#8C8C8E",
+      "color_fondo": "#F5F7F9"
     },
     {
-      "id": "7",
+      "id": "09",
       "nombre": "Arán 2027",
       "titulo_dashboard": "Dashboard difusión Valle de Arán 2027",
       "icono": "extremadura25.jpeg",
-      "color_primario": "#1D873E",
-      "color_secundario": "#393F4C",
-      "color_fondo": "#F4FBF5"
+      "color_primario": "#C00000",
+      "color_secundario": "#8B8D98",
+      "color_fondo": "#FFFFFF"
     },
     {
-      "id": "8",
+      "id": "12",
       "nombre": "Madrid 2027",
       "titulo_dashboard": "Dashboard difusión Madrid 2027",
-      "icono": "extremadura25.jpeg",
-      "color_primario": "#1D873E",
-      "color_secundario": "#393F4C",
-      "color_fondo": "#F4FBF5"
-    },
-    {
-      "id": "9",
-      "nombre": "Navarra 2027",
-      "titulo_dashboard": "Dashboard difusión Navarra 2027",
-      "icono": "extremadura25.jpeg",
-      "color_primario": "#1D873E",
-      "color_secundario": "#393F4C",
-      "color_fondo": "#F4FBF5"
-    },
-    {
-      "id": "10",
-      "nombre": "Valencia 2027",
-      "titulo_dashboard": "Dashboard difusión Valencia 2027",
-      "icono": "extremadura25.jpeg",
-      "color_primario": "#1D873E",
-      "color_secundario": "#393F4C",
-      "color_fondo": "#F4FBF5"
+      "icono": "Madrid27.jpeg",
+      "color_primario": "#DE0029",
+      "color_secundario": "#000000",
+      "color_fondo": "#FFF7F6"
     },
     {
       "id": "13",
+      "nombre": "Navarra 2027",
+      "titulo_dashboard": "Dashboard difusión Navarra 2027",
+      "icono": "extremadura25.jpeg",
+      "color_primario": "#C8102E",
+      "color_secundario": "#8B8D98",
+      "color_fondo": "#000055"
+    },
+    {
+      "id": "17",
+      "nombre": "Valencia 2027",
+      "titulo_dashboard": "Dashboard difusión Valencia 2027",
+      "icono": "extremadura25.jpeg",
+      "color_primario": "##003CA2",
+      "color_secundario": "#C40020",
+      "color_fondo": "#D7E6FC"
+    },
+    {
+      "id": "11",
       "nombre": "Baleares 2027",
       "titulo_dashboard": "Dashboard difusión Illes Balears 2027",
       "icono": "extremadura25.jpeg",
@@ -82,7 +82,7 @@
       "color_fondo": "#F4FBF5"
     },
     {
-      "id": "14",
+      "id": "16",
       "nombre": "La Rioja 2027",
       "titulo_dashboard": "Dashboard difusión La Rioja 2027",
       "icono": "extremadura25.jpeg",
@@ -91,23 +91,23 @@
       "color_fondo": "#F4FBF5"
     },
     {
-      "id": "16",
+      "id": "03",
       "nombre": "Asturias 2027",
       "titulo_dashboard": "Dashboard difusión Asturias 2027",
       "icono": "extremadura25.jpeg",
-      "color_primario": "#1D873E",
-      "color_secundario": "#393F4C",
-      "color_fondo": "#F4FBF5"
+      "color_primario": "#0069B4",
+      "color_secundario": "#fcbd1b",
+      "color_fondo": "#F4F9FF"
     },
     {
-      "id": "17",
+      "id": "15",
       "nombre": "Murcia 2027",
       "titulo_dashboard": "Dashboard difusión Mucia 2027",
       "icono": "extremadura25.jpeg",
-      "color_primario": "#1D873E",
-      "color_secundario": "#393F4C",
-      "color_fondo": "#F4FBF5"
+      "color_primario": "#B20933",
+      "color_secundario": "#FCBD1B",
+      "color_fondo": "#EFF0F3"
     }
   ],
-  "last_updated": "2026-09-09T09:42:08Z"
+  "last_updated": "2026-09-10T07:11:34Z"
 }
