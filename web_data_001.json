@@ -694,5 +694,34 @@
       "Linux": 3,
       "Android": 2
     }
+  },
+  {
+    "Timestamp": "2026-11-04 17:15:05",
+    "Realtime_App": 7,
+    "Realtime_Web": 7,
+    "First_Open_Diff_Android_30min": 0,
+    "First_Open_Diff_iOS_30min": 1,
+    "First_Open_Diff_Total_30min": 1,
+    "First_View_Realtime_Total": 1,
+    "First_Open_Acumulado_Android": 39,
+    "First_Open_Acumulado_iOS": 73,
+    "First_Open_Acumulado_Total": 112,
+    "Device_Category_Mobile": 6,
+    "Device_Category_Tablet": 0,
+    "Device_Category_Desktop": 36,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 33,
+      "Safari": 4,
+      "Firefox": 3
+    },
+    "Browser_OS": {
+      "Macintosh": 17,
+      "Windows": 16,
+      "iOS": 4,
+      "Linux": 3,
+      "Android": 2
+    }
   }
 ]
