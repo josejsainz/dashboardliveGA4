@@ -4,11 +4,11 @@
       "id": "001",
       "nombre": "Generales 2026",
       "titulo_dashboard": "Dashboard difusión Generales 2026",
-      "icono": "andalucia26.jpeg",
+      "icono": "logoGenerales.png",
       "color_primario": "#0C2C84",
       "color_secundario": "#FFBA18",
-      "color_fondo": "#f5e1e1"
+      "color_fondo": "#FFFFFF"
     }
   ],
-  "last_updated": "2026-11-04T15:11:36Z"
+  "last_updated": "2026-11-04T15:57:06Z"
 }
