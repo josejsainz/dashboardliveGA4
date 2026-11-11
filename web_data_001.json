@@ -776,27 +776,27 @@
     "First_Open_Diff_Total_30min": 1,
     "First_View_Realtime_Total": 13,
     "First_Open_Acumulado_Android": 77,
-    "First_Open_Acumulado_iOS": 109,
-    "First_Open_Acumulado_Total": 186,
-    "Device_Category_Mobile": 36,
+    "First_Open_Acumulado_iOS": 110,
+    "First_Open_Acumulado_Total": 187,
+    "Device_Category_Mobile": 38,
     "Device_Category_Tablet": 4,
-    "Device_Category_Desktop": 158,
+    "Device_Category_Desktop": 161,
     "Device_Category_TV": 0,
     "Device_Category_Other": 0,
     "Browsers": {
-      "Chrome": 147,
-      "Safari": 24,
+      "Chrome": 150,
+      "Safari": 26,
       "Firefox": 15,
       "Edge": 4,
       "Opera": 4,
       "Samsung Internet": 2
     },
     "Browser_OS": {
-      "Windows": 92,
-      "Macintosh": 57,
+      "Windows": 94,
+      "Macintosh": 58,
       "Android": 24,
-      "iOS": 17,
-      "Linux": 9
+      "iOS": 19,
+      "Linux": 10
     }
   }
 ]
