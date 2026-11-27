@@ -1,14 +1,4 @@
 {
-  "active_elections": [
-    {
-      "id": "001",
-      "nombre": "Generales 2026",
-      "titulo_dashboard": "Dashboard difusión Generales 2026",
-      "icono": "logoGenerales.png",
-      "color_primario": "#0C2C84",
-      "color_secundario": "#FFBA18",
-      "color_fondo": "#FFFFFF"
-    }
-  ],
-  "last_updated": "2026-11-19T18:29:45Z"
+  "active_elections": [],
+  "last_updated": "2026-11-27T09:23:53Z"
 }
