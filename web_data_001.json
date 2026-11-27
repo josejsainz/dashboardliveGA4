@@ -163,5 +163,38 @@
       "Android": 116,
       "iOS": 90
     }
+  },
+  {
+    "Timestamp": "2026-11-27 12:00:09",
+    "Realtime_App": 4,
+    "Realtime_Web": 12,
+    "First_Open_Diff_Android_30min": 0,
+    "First_Open_Diff_iOS_30min": 0,
+    "First_Open_Diff_Total_30min": 0,
+    "First_View_Realtime_Total": 0,
+    "First_Open_Acumulado_Android": 441,
+    "First_Open_Acumulado_iOS": 343,
+    "First_Open_Acumulado_Total": 784,
+    "Device_Category_Mobile": 186,
+    "Device_Category_Tablet": 19,
+    "Device_Category_Desktop": 4233,
+    "Device_Category_TV": 0,
+    "Device_Category_Other": 0,
+    "Browsers": {
+      "Chrome": 4067,
+      "Firefox": 138,
+      "Safari": 125,
+      "Edge": 57,
+      "Samsung Internet": 17,
+      "Opera": 6,
+      "Mozilla Compatible Agent": 2
+    },
+    "Browser_OS": {
+      "Linux": 3470,
+      "Macintosh": 434,
+      "Windows": 334,
+      "Android": 116,
+      "iOS": 90
+    }
   }
 ]
